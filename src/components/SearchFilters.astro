@@ -240,14 +240,75 @@ const districts = [...new Set(organizationsData.organizations.map(org => org.pri
   }
 
   @media (max-width: 768px) {
+    .filters-container {
+      padding: 15px;
+      margin-bottom: 15px;
+    }
+    
+    .search-section {
+      margin-bottom: 12px;
+    }
+    
+    .search-input-container {
+      margin-bottom: 12px;
+    }
+    
+    .search-input {
+      padding: 14px 40px 14px 14px;
+      font-size: 16px;
+    }
+    
     .filter-dropdowns {
       grid-template-columns: 1fr;
+      gap: 12px;
+    }
+    
+    .filter-select {
+      padding: 12px;
+      font-size: 16px;
     }
     
     .results-section {
       flex-direction: column;
-      gap: 10px;
+      gap: 12px;
       text-align: center;
+      padding-top: 12px;
+    }
+    
+    .results-count {
+      font-size: 13px;
+    }
+    
+    .clear-filters-button {
+      padding: 10px 20px;
+      font-size: 15px;
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .filters-container {
+      padding: 12px;
+      margin-bottom: 12px;
+    }
+    
+    .search-input {
+      padding: 12px 35px 12px 12px;
+      font-size: 16px;
+    }
+    
+    .clear-button {
+      right: 10px;
+      font-size: 18px;
+    }
+    
+    .filter-select {
+      padding: 10px;
+      font-size: 15px;
+    }
+    
+    .results-count {
+      font-size: 12px;
     }
   }
 </style>

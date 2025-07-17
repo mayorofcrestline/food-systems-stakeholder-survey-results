@@ -7,7 +7,7 @@ import cloudflare from "@astrojs/cloudflare";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://crestlinecollective.com",
+  site: "https://food-systems-stakeholder-survey-results.jesse-3b6.workers.dev",
   integrations: [mdx(), sitemap()],
   adapter: cloudflare({
     platformProxy: {
