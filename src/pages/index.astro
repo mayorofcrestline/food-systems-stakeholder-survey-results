@@ -1,7 +1,8 @@
 ---
 import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import SearchFilters from '../components/SearchFilters.astro';
+import MapContainer from '../components/MapContainer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 ---
 
@@ -9,42 +10,186 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 	</head>
 	<body>
-		<Header />
+		<div class="hero-section">
+			<h1>LA Food Systems Stakeholder Map</h1>
+			<p>Explore organizations working to improve food systems across Los Angeles County</p>
+		</div>
+		
+		<div class="map-section">
+			<SearchFilters />
+			<MapContainer />
+		</div>
+		
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
-			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This
-				template serves as a lightweight, minimally-styled starting point for anyone looking to build
-				a personal website, blog, or portfolio with Astro.
-			</p>
-			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/content/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to <a href="https://docs.astro.build/"
-					>read the docs
-				</a> or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
-			</p>
-			<p>
-				Looking for a blog template with a bit more personality? Check out <a
-					href="https://github.com/Charca/astro-blog-template"
-					>astro-blog-template
-				</a> by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
-			</p>
+			<div class="info-section">
+				<div class="legend">
+					<h3>District Legend</h3>
+					<div class="legend-items">
+						<div class="legend-item">
+							<div class="legend-color" style="background-color: #E53E3E;"></div>
+							<span>1st District - Hilda Solis</span>
+						</div>
+						<div class="legend-item">
+							<div class="legend-color" style="background-color: #3182CE;"></div>
+							<span>2nd District - Holly Mitchell</span>
+						</div>
+						<div class="legend-item">
+							<div class="legend-color" style="background-color: #38A169;"></div>
+							<span>3rd District - Lindsey Horvath</span>
+						</div>
+						<div class="legend-item">
+							<div class="legend-color" style="background-color: #805AD5;"></div>
+							<span>4th District - Janice Hahn</span>
+						</div>
+						<div class="legend-item">
+							<div class="legend-color" style="background-color: #DD6B20;"></div>
+							<span>5th District - Kathryn Barger</span>
+						</div>
+						<div class="legend-item">
+							<div class="legend-color" style="background-color: #4A5568;"></div>
+							<span>Countywide</span>
+						</div>
+					</div>
+				</div>
+				
+				<div class="about">
+					<h3>About This Map</h3>
+					<p>
+						This interactive map displays food systems stakeholder organizations across Los Angeles County. 
+						Use the search and filters above to explore organizations by sector, district, or search terms.
+					</p>
+					<p>
+						Click on any marker to view detailed information about an organization, including their mission, 
+						activities, and contact information.
+					</p>
+				</div>
+			</div>
 		</main>
 		<Footer />
 	</body>
 </html>
+
+<style>
+	.hero-section {
+		text-align: center;
+		padding: 60px 20px;
+		background: linear-gradient(135deg,rgba(122, 139, 92, 0.49) 0%,rgba(27, 56, 34, 0.36) 100%);
+		color: white;
+		margin-bottom: 40px;
+	}
+	
+	.hero-section h1 {
+		font-size: 3rem;
+		margin: 0 0 20px 0;
+		font-weight: bold;
+	}
+	
+	.hero-section p {
+		font-size: 1.2rem;
+		margin: 0;
+		max-width: 600px;
+		margin-left: auto;
+		margin-right: auto;
+		line-height: 1.6;
+	}
+	
+	main {
+		max-width: 100%;
+		margin: 0 auto;
+		padding: 0 20px;
+	}
+	
+	.map-section {
+		width: 100%;
+		max-width: 1200px;
+		margin: 0 auto 40px auto;
+		padding: 0 20px;
+	}
+	
+	.info-section {
+		display: grid;
+		grid-template-columns: 2fr 2fr;
+		gap: 40px;
+		margin-bottom: 40px;
+	}
+	
+	.legend {
+		background: white;
+		padding: 20px;
+		border-radius: 8px;
+		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	}
+	
+	.legend h3 {
+		margin: 0 0 15px 0;
+		color: #2d3748;
+	}
+	
+	.legend-items {
+		display: flex;
+		flex-direction: column;
+		gap: 10px;
+	}
+	
+	.legend-item {
+		display: flex;
+		align-items: center;
+		gap: 10px;
+	}
+	
+	.legend-color {
+		width: 20px;
+		height: 20px;
+		border-radius: 50%;
+		border: 2px solid white;
+		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	}
+	
+	.about {
+		background: white;
+		padding: 20px;
+		border-radius: 8px;
+		box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+	}
+	
+	.about h3 {
+		margin: 0 0 15px 0;
+		color: #2d3748;
+	}
+	
+	.about p {
+		margin: 0 0 15px 0;
+		line-height: 1.6;
+		color:rgb(74, 104, 86);
+	}
+	
+	.about p:last-child {
+		margin-bottom: 0;
+	}
+	
+	@media (max-width: 768px) {
+		.hero-section {
+			padding: 40px 15px;
+		}
+		
+		.hero-section h1 {
+			font-size: 2.5rem;
+		}
+		
+		.hero-section p {
+			font-size: 1.1rem;
+		}
+		
+		.info-section {
+			grid-template-columns: 1fr;
+			gap: 20px;
+		}
+		
+		main {
+			padding: 0 15px;
+		}
+	}
+</style>

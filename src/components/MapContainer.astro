@@ -1,0 +1,134 @@
+<div id="map" style="height: 70vh; width: 100%;"></div>
+
+<script>
+  import L from 'leaflet';
+  import organizationsData from '../data/organizations.json';
+
+  // District colors
+  const districtColors = {
+    '1st District- Hilda Solis': '#E53E3E',
+    '2nd District- Holly Mitchell': '#3182CE',
+    '3rd District- Lindsey Horvath': '#38A169',
+    '4th District- Janice Hahn': '#805AD5',
+    '5th District- Kathryn Barger': '#DD6B20',
+    'Countywide': '#4A5568'
+  };
+
+  // GeoJSON district colors for boundaries
+  const geojsonColors = {
+    '1': '#E53E3E',
+    '2': '#3182CE',
+    '3': '#38A169',
+    '4': '#805AD5',
+    '5': '#DD6B20'
+  };
+
+  // Initialize map
+  const map = L.map('map').setView([34.0522, -118.2437], 10);
+
+  // Add base layer
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+    subdomains: 'abcd',
+    maxZoom: 18
+  }).addTo(map);
+
+  // Add district boundaries
+  const geojsonUrl = '/Supervisorial_Districts.geojson';
+  
+  fetch(geojsonUrl)
+    .then(response => response.json())
+    .then(data => {
+      L.geoJSON(data, {
+        style: function(feature) {
+          const district = feature.properties.DISTRICT;
+          return {
+            fillColor: geojsonColors[district] || '#00000000',
+            color: '#000000',
+            weight: 2,
+            fillOpacity: 0.3
+          };
+        },
+        onEachFeature: function(feature, layer) {
+          layer.bindTooltip(`District ${feature.properties.DISTRICT}`, {
+            permanent: false,
+            direction: 'center'
+          });
+        }
+      }).addTo(map);
+    })
+    .catch(error => {
+      console.error('Error loading district boundaries:', error);
+    });
+
+  // Store all markers for filtering
+  let allMarkers = [];
+
+  // Add organization markers
+  organizationsData.organizations.forEach(org => {
+    const [lat, lng] = org.coordinates;
+    const color = districtColors[org.primaryDistrict] || '#718096';
+    
+    // Create popup content
+    const popupContent = `
+      <div class="popup-content">
+        <h3 style="margin: 0 0 10px 0; color: ${color};">${org.name}</h3>
+        <p><strong>Sector:</strong> ${org.sector}</p>
+        <p><strong>District:</strong> ${org.primaryDistrict}</p>
+        <p><strong>Address:</strong> ${org.address}</p>
+        ${org.mission ? `<p><strong>Mission:</strong> ${org.mission}</p>` : ''}
+        ${org.primaryActivity ? `<p><strong>Activity:</strong> ${org.primaryActivity}</p>` : ''}
+        ${org.contact.email ? `<p><strong>Contact:</strong> <a href="mailto:${org.contact.email}">${org.contact.email}</a></p>` : ''}
+      </div>
+    `;
+
+    // Create marker
+    const marker = L.marker([lat, lng], {
+      icon: L.divIcon({
+        className: 'custom-marker',
+        html: `<div style="background-color: ${color}; width: 20px; height: 20px; border-radius: 50%; border: 2px solid white; box-shadow: 0 2px 5px rgba(0,0,0,0.3);"></div>`,
+        iconSize: [20, 20],
+        iconAnchor: [10, 10]
+      }),
+      title: org.name
+    }).bindPopup(popupContent, { maxWidth: 400 });
+
+    // Add searchable properties to marker
+    marker.orgData = org;
+    marker.addTo(map);
+    allMarkers.push(marker);
+  });
+
+  // Export for use by search functionality
+  window.mapInstance = map;
+  window.allMarkers = allMarkers;
+  window.districtColors = districtColors;
+</script>
+
+<style>
+  #map {
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+
+  :global(.popup-content) {
+    max-height: 300px;
+    overflow-y: auto;
+  }
+
+  :global(.popup-content h3) {
+    font-size: 1.1em;
+    font-weight: bold;
+  }
+
+  :global(.popup-content p) {
+    margin: 8px 0;
+    font-size: 0.9em;
+    line-height: 1.4;
+  }
+
+  :global(.custom-marker) {
+    background: transparent !important;
+    border: none !important;
+  }
+</style>

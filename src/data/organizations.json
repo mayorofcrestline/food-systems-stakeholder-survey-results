@@ -1,0 +1,613 @@
+{
+  "organizations": [
+    {
+      "id": "org-0",
+      "name": "Episcopal Diocese of Los Angeles-Seeds of Hope",
+      "sector": "Nonprofit/CBO",
+      "address": "840 Echo Park Ave",
+      "zipCode": "90026",
+      "coordinates": [
+        34.073635,
+        -118.2603
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn, 5th District- Kathryn Barger, Countywide",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "Countywide",
+      "mission": "To provide nutrient dense food, nutrition and cooking education, garden workshops and social services navigation in a effort to address the social determinants of health. We do this using food as the connector, bringing people together around the shared love of food.",
+      "primaryActivity": "Providing equitable access to nutrition, health programming and social services with dignity. ",
+      "contact": {
+        "email": "strapasso@ladiocese.org",
+        "name": "Steven Trapasso"
+      }
+    },
+    {
+      "id": "org-1",
+      "name": "Los Angeles Food Policy Council",
+      "sector": "Nonprofit/CBO",
+      "address": "1000 N. Alameda St. Suite 240",
+      "zipCode": "90012",
+      "coordinates": [
+        34.06485,
+        -118.2233
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "Countywide",
+      "mission": "LAFPC works to ensure food is healthy, accessible, affordable, fair, and sustainable for all. ",
+      "primaryActivity": "LAFPC is a collective impact organization that brings together diverse sectors and community voices across the LA region to create a more just and sustainable food system. Through policy advocacy, strategic partnerships, and innovative programs, we work to ensure that food is healthy, affordable, accessible, fair, and sustainable for all. By uniting stakeholders around a shared agenda, we drive meaningful change and support initiatives that uplift local food economies, protect food workers, and expand equitable food access.",
+      "contact": {
+        "email": "alba@goodfoodla.org",
+        "name": "Alba Velasquez"
+      }
+    },
+    {
+      "id": "org-2",
+      "name": "Chronic Disease and Injury Prevention, County of Los Angeles, Department of Public Health",
+      "sector": "Government Agency",
+      "address": "Downtown and at 3530 Wilshire Blvd, 8th Floor, Los Angeles, CA 90010",
+      "zipCode": "90010",
+      "coordinates": [
+        34.061028,
+        -118.3012
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn, 5th District- Kathryn Barger, Countywide",
+      "primarySPA": "SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts)",
+      "additionalSPAs": "SPA 1- Antelope Valley (Acton, Agua Dulce, Gorman, Lake Hughes, Lake Los Angeles, Lancaster, Littlerock, Palmdale, Quartz Hill, and others), SPA 2- San Fernando Valley (Burbank, Calabasas, Canoga Park, Canyon Country, Encino, Glendale, LA Cañada-Flintridge, San Fernando, Sherman Oaks, Sun Valley, Van Nuys, Woodland Hills, and others), SPA 3- San Gabriel Valley (Alhambra, Altadena, Arcadia, Azusa, Baldwin Park, Claremont, Covina, Diamond Bar, Duarte, El Monte, Glendora, Irwindale, Monrovia, Monterey Park, Pasadena, Pomona, San Dimas, San Gabriel, San Marino, Temple City, Walnut, West Covina, and others.), SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake), SPA 5- West (Bel Air, Beverly Hills, Brentwood, Culver City, Ladera, Malibu, Mar Vista, Marina del Rey, Pacific Palisades, Palms, Playa del Rey, Santa Monica, Venice, West LA, Westchester, and Westwood), SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts), SPA 7- East (Artesia, Bell, Bellflower, Bell Gardens, Cerritos, City of Commerce, City Terrace, Cudahy, Downey, East Los Angeles, Hawaiian Gardens, Huntington Park, La Habra Heights, Lakewood, La Mirada, Los Nietos, Maywood, Montebello, Norwalk, Pico Rivera, Santa Fe Springs, Signal Hill, South Gate, Vernon, Walnut Park, Whittier, and others), SPA 8- South Bay (Athens, Avalon, Carson, Catalina Island, El Segundo, Gardena, Harbor City, Hawthorne, Inglewood, Lawndale, Lennox, Long Beach, Hermosa Beach, Manhattan Beach, Palos Verdes Estates, Rancho Dominguez, Rancho Palos Verdes, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Pedro, Torrance, Wilmington, and others), Countywide",
+      "mission": "Our primary mission is to help make Los Angeles County a healthier place. In collaboration with our community partners and key stakeholders, we focus on reducing the risk and burden of chronic disease, injury, and social conditions that affect health to promote well-being and quality of life for all residents in this diverse county. Good health provides the foundation for a strong quality of life for our children, families, and friends. When we focus on prevention and make our communities places of health, safety, and opportunity for social and economic growth, everyone benefits.",
+      "primaryActivity": "chronic disease prevention and control through multi-sector collaborations and policy, systems, and envrionmental change efforts",
+      "contact": {
+        "email": "tkuo@ph.lacounty.gov",
+        "name": "Tony Kuo, MD, MSHS"
+      }
+    },
+    {
+      "id": "org-3",
+      "name": "First 5 Los Angeles",
+      "sector": "we're a governmental nonprofit, part of county but independent",
+      "address": "750 N Alameda St",
+      "zipCode": "90012",
+      "coordinates": [
+        34.06485,
+        -118.2233
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "SPA 1- Antelope Valley (Acton, Agua Dulce, Gorman, Lake Hughes, Lake Los Angeles, Lancaster, Littlerock, Palmdale, Quartz Hill, and others), SPA 2- San Fernando Valley (Burbank, Calabasas, Canoga Park, Canyon Country, Encino, Glendale, LA Cañada-Flintridge, San Fernando, Sherman Oaks, Sun Valley, Van Nuys, Woodland Hills, and others), SPA 3- San Gabriel Valley (Alhambra, Altadena, Arcadia, Azusa, Baldwin Park, Claremont, Covina, Diamond Bar, Duarte, El Monte, Glendora, Irwindale, Monrovia, Monterey Park, Pasadena, Pomona, San Dimas, San Gabriel, San Marino, Temple City, Walnut, West Covina, and others.), SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake), SPA 5- West (Bel Air, Beverly Hills, Brentwood, Culver City, Ladera, Malibu, Mar Vista, Marina del Rey, Pacific Palisades, Palms, Playa del Rey, Santa Monica, Venice, West LA, Westchester, and Westwood), SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts), SPA 7- East (Artesia, Bell, Bellflower, Bell Gardens, Cerritos, City of Commerce, City Terrace, Cudahy, Downey, East Los Angeles, Hawaiian Gardens, Huntington Park, La Habra Heights, Lakewood, La Mirada, Los Nietos, Maywood, Montebello, Norwalk, Pico Rivera, Santa Fe Springs, Signal Hill, South Gate, Vernon, Walnut Park, Whittier, and others), SPA 8- South Bay (Athens, Avalon, Carson, Catalina Island, El Segundo, Gardena, Harbor City, Hawthorne, Inglewood, Lawndale, Lennox, Long Beach, Hermosa Beach, Manhattan Beach, Palos Verdes Estates, Rancho Dominguez, Rancho Palos Verdes, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Pedro, Torrance, Wilmington, and others), Countywide",
+      "mission": "We advocate for children and their families, amplify community voice and partner for collective impact so that every child in LA county reaches their full developmental potential throughout the critical years of prenatal to age 5.",
+      "primaryActivity": "early childhood development and advocacy",
+      "contact": {
+        "email": "jwagner@first5la.org",
+        "name": "John Wagner"
+      }
+    },
+    {
+      "id": "org-4",
+      "name": "Hunger Action Los Angeles Inc",
+      "sector": "Nonprofit/CBO",
+      "address": "961 S Mariposa Ave # 205",
+      "zipCode": "90006",
+      "coordinates": [
+        34.047825,
+        -118.304545
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "Countywide",
+      "mission": "Hunger Action Los Angeles ends hunger and promotes healthy eating in Los Angeles County through advocacy, public policy and appropriate direct service including the Market Match program providing additional benefits to CalFresh customers at farmers markets; CalFresh enrollment; food delivery to vulnerable populations; and advocacy at the city, county, state and federal levels for anti-hunger and anti-poverty policy.",
+      "primaryActivity": "We provide direct services to customers including food and vouchers for food while also coordinating advoacy for food policy among low income persons and service providers.",
+      "contact": {
+        "email": "frank@hungeractionla.org",
+        "name": "Frank Tamborello"
+      }
+    },
+    {
+      "id": "org-5",
+      "name": "Food Forward",
+      "sector": "Nonprofit/CBO",
+      "address": "7412 Fulton Ave Suite #3, North Hollywood, CA",
+      "zipCode": "91605",
+      "coordinates": [
+        34.2047717,
+        -118.4224271
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "3rd District- Lindsey Horvath",
+      "primarySPA": "SPA 2- San Fernando Valley (Burbank, Calabasas, Canoga Park, Canyon Country, Encino, Glendale, LA Cañada-Flintridge, San Fernando, Sherman Oaks, Sun Valley, Van Nuys, Woodland Hills, and others)",
+      "additionalSPAs": "SPA 1- Antelope Valley (Acton, Agua Dulce, Gorman, Lake Hughes, Lake Los Angeles, Lancaster, Littlerock, Palmdale, Quartz Hill, and others), SPA 2- San Fernando Valley (Burbank, Calabasas, Canoga Park, Canyon Country, Encino, Glendale, LA Cañada-Flintridge, San Fernando, Sherman Oaks, Sun Valley, Van Nuys, Woodland Hills, and others), SPA 3- San Gabriel Valley (Alhambra, Altadena, Arcadia, Azusa, Baldwin Park, Claremont, Covina, Diamond Bar, Duarte, El Monte, Glendora, Irwindale, Monrovia, Monterey Park, Pasadena, Pomona, San Dimas, San Gabriel, San Marino, Temple City, Walnut, West Covina, and others.), SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake), SPA 5- West (Bel Air, Beverly Hills, Brentwood, Culver City, Ladera, Malibu, Mar Vista, Marina del Rey, Pacific Palisades, Palms, Playa del Rey, Santa Monica, Venice, West LA, Westchester, and Westwood), SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts), SPA 7- East (Artesia, Bell, Bellflower, Bell Gardens, Cerritos, City of Commerce, City Terrace, Cudahy, Downey, East Los Angeles, Hawaiian Gardens, Huntington Park, La Habra Heights, Lakewood, La Mirada, Los Nietos, Maywood, Montebello, Norwalk, Pico Rivera, Santa Fe Springs, Signal Hill, South Gate, Vernon, Walnut Park, Whittier, and others), SPA 8- South Bay (Athens, Avalon, Carson, Catalina Island, El Segundo, Gardena, Harbor City, Hawthorne, Inglewood, Lawndale, Lennox, Long Beach, Hermosa Beach, Manhattan Beach, Palos Verdes Estates, Rancho Dominguez, Rancho Palos Verdes, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Pedro, Torrance, Wilmington, and others), Countywide",
+      "mission": "Food Forward® fights hunger and prevents food waste by rescuing fresh surplus produce, connecting this abundance with people experiencing food insecurity, and inspiring others to do the same.",
+      "primaryActivity": "Food Forward recovers fruits and vegetables that would have been wasted from backyard fruit trees, orchards, farmers markets, and the downtown Los Angeles Wholesale Produce Market. ",
+      "contact": {
+        "email": "ellen@foodforward.org",
+        "name": "Ellen DeVine"
+      }
+    },
+    {
+      "id": "org-6",
+      "name": "Butterfly Equity Foundation",
+      "sector": "Foundation",
+      "address": "9595 Wilshire Blvd., Suite 510",
+      "zipCode": "90212",
+      "coordinates": [
+        34.067321,
+        -118.398273
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 5- West (Bel Air, Beverly Hills, Brentwood, Culver City, Ladera, Malibu, Mar Vista, Marina del Rey, Pacific Palisades, Palms, Playa del Rey, Santa Monica, Venice, West LA, Westchester, and Westwood)",
+      "additionalSPAs": "Countywide",
+      "mission": "The mission of the Foundation is to empower our community partners to strengthen the local food system and improve healthy food access for all. We envision a world where everyone has equitable access to nourishing food that promotes their wellbeing.",
+      "primaryActivity": "We are a grantmaker who is fully devoted to supporting food related issue areas in Los Angles County.",
+      "contact": {
+        "email": "emily@bfly.org",
+        "name": "Emily Parker"
+      }
+    },
+    {
+      "id": "org-7",
+      "name": "California Community Foundation",
+      "sector": "Foundation",
+      "address": "717 W. Temple St.",
+      "zipCode": "90012",
+      "coordinates": [
+        34.05758,
+        -118.2523
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 1- Antelope Valley (Acton, Agua Dulce, Gorman, Lake Hughes, Lake Los Angeles, Lancaster, Littlerock, Palmdale, Quartz Hill, and others)",
+      "additionalSPAs": "Countywide",
+      "mission": "CCF leads positive systemic change that strengthens Los Angeles’ communities. We envision a future where all Angelenos have the opportunity to contribute to the productivity, health and well-being of our region. And we believe that our common fate will be determined by how successfully we improve the quality of life for all of our residents.",
+      "primaryActivity": "support non-profits, Fiscal sponsor for LA County Office of Food Equity",
+      "contact": {
+        "email": "LRodriguez@calfund.org",
+        "name": "Luis Rodriguez"
+      }
+    },
+    {
+      "id": "org-8",
+      "name": "Chief Sustainability Office -- L.A. County",
+      "sector": "Government Agency",
+      "address": "1517 ASHLAND AVE",
+      "zipCode": "90405",
+      "coordinates": [
+        34.025681,
+        -118.478065
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn, 5th District- Kathryn Barger, Countywide",
+      "primarySPA": "SPA 5- West (Bel Air, Beverly Hills, Brentwood, Culver City, Ladera, Malibu, Mar Vista, Marina del Rey, Pacific Palisades, Palms, Playa del Rey, Santa Monica, Venice, West LA, Westchester, and Westwood)",
+      "additionalSPAs": "SPA 5- West (Bel Air, Beverly Hills, Brentwood, Culver City, Ladera, Malibu, Mar Vista, Marina del Rey, Pacific Palisades, Palms, Playa del Rey, Santa Monica, Venice, West LA, Westchester, and Westwood), Countywide",
+      "mission": "Guided by the OurCounty Sustainability Plan, the Chief Sustainability Office leads cross-departmental efforts to achieve a sustainable LA County that advances equity, economic opportunity, and climate resilience. ",
+      "primaryActivity": "Providing communications/engagement support for Food Equity officex",
+      "contact": {
+        "email": "may77comm@gmail.com",
+        "name": "Matthew King"
+      }
+    },
+    {
+      "id": "org-9",
+      "name": "University of Southern California",
+      "sector": "College/University",
+      "address": "3551 Trousdale Parkway, Los Angeles, CA",
+      "zipCode": "90089",
+      "coordinates": [
+        34.0208709,
+        -118.2855497
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "2nd District- Holly Mitchell",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "Countywide",
+      "mission": "The development of human beings and society as a whole through the cultivation and enrichment of the human mind and spirit.",
+      "primaryActivity": "Researcher and professor",
+      "contact": {
+        "email": "delahaye@usc.edu",
+        "name": "Kayla de la Haye"
+      }
+    },
+    {
+      "id": "org-10",
+      "name": "Hollywood Food Coalition",
+      "sector": "Nonprofit/CBO",
+      "address": "5939 Hollywood Blvd",
+      "zipCode": "90028",
+      "coordinates": [
+        34.100292,
+        -118.327759
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "Countywide",
+      "mission": "The mission of Hollywood Food Coalition is to nourish the community by rescuing and distributing food, preparing nightly meals, and uniting efforts to achieve food equity.",
+      "primaryActivity": "We rescue millions of pounds of food each year, which we use to prepare a nightly hot meal and also redistribute to a network of 170+ community-based organizations.",
+      "contact": {
+        "email": "development@hofoco.org",
+        "name": "Asher Landau"
+      }
+    },
+    {
+      "id": "org-11",
+      "name": "County of Los Angeles Department of Public Health",
+      "sector": "Government Agency",
+      "address": "3530 Wilshire Blvd., Suite 800. Los Angeles, CA",
+      "zipCode": "90010",
+      "coordinates": [
+        34.0616527,
+        -118.3017696
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "Countywide",
+      "mission": "Advance the conditions that support optimal health and well-being for all",
+      "primaryActivity": "Convening & connecting entities working to improve food security, nutrition, and health outcomes. ",
+      "contact": {
+        "email": "pranganath@ph.lacounty.gov",
+        "name": "Priya Ranganath"
+      }
+    },
+    {
+      "id": "org-12",
+      "name": "Los Angeles County Department of Public Social Services",
+      "sector": "Government Agency",
+      "address": "12860 Crossroads Prkwy. South",
+      "zipCode": "91746",
+      "coordinates": [
+        34.028243,
+        -118.024345
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 3- San Gabriel Valley (Alhambra, Altadena, Arcadia, Azusa, Baldwin Park, Claremont, Covina, Diamond Bar, Duarte, El Monte, Glendora, Irwindale, Monrovia, Monterey Park, Pasadena, Pomona, San Dimas, San Gabriel, San Marino, Temple City, Walnut, West Covina, and others.)",
+      "additionalSPAs": "Countywide",
+      "mission": "To Enrich lives through effective and caring service.",
+      "primaryActivity": "To ensure that Los Angeles County's most vulnerable residents have access to food benefits through CalFresh Program.  Our goal is to reduce food insecurity and increase healthy food consumption. ",
+      "contact": {
+        "email": "RoobinaGerami@dpss.lacounty.gov",
+        "name": "Roobina Gerami"
+      }
+    },
+    {
+      "id": "org-13",
+      "name": "Los Angeles Regional Food Bank",
+      "sector": "Nonprofit/CBO",
+      "address": "1734 East 41st Street, Los Angeles CA 90058",
+      "zipCode": "90058",
+      "coordinates": [
+        34.0079733,
+        -118.2422964
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts)",
+      "additionalSPAs": "Countywide",
+      "mission": "To mobilize resources to fight hunger in our community.",
+      "primaryActivity": "Source and acquire nutritious food and other products and distribute them to people experiencing nutrition insecurity through our partner agency network and directly through programs",
+      "contact": {
+        "email": "hayala@lafoodbank.org",
+        "name": "Hilda Ayala"
+      }
+    },
+    {
+      "id": "org-15",
+      "name": "Westside Food Bank",
+      "sector": "Nonprofit/CBO",
+      "address": "1710 22ND STREET, Santa Monica",
+      "zipCode": "90404",
+      "coordinates": [
+        34.0252623,
+        -118.4728412
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "2nd District- Holly Mitchell, 3rd District- Lindsey Horvath",
+      "primarySPA": "SPA 5- West (Bel Air, Beverly Hills, Brentwood, Culver City, Ladera, Malibu, Mar Vista, Marina del Rey, Pacific Palisades, Palms, Playa del Rey, Santa Monica, Venice, West LA, Westchester, and Westwood)",
+      "additionalSPAs": "SPA 2- San Fernando Valley (Burbank, Calabasas, Canoga Park, Canyon Country, Encino, Glendale, LA Cañada-Flintridge, San Fernando, Sherman Oaks, Sun Valley, Van Nuys, Woodland Hills, and others), SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake), SPA 5- West (Bel Air, Beverly Hills, Brentwood, Culver City, Ladera, Malibu, Mar Vista, Marina del Rey, Pacific Palisades, Palms, Playa del Rey, Santa Monica, Venice, West LA, Westchester, and Westwood), SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts), SPA 8- South Bay (Athens, Avalon, Carson, Catalina Island, El Segundo, Gardena, Harbor City, Hawthorne, Inglewood, Lawndale, Lennox, Long Beach, Hermosa Beach, Manhattan Beach, Palos Verdes Estates, Rancho Dominguez, Rancho Palos Verdes, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Pedro, Torrance, Wilmington, and others)",
+      "mission": "Westside Food Bank’s mission is to end hunger in our communities by providing access to free, nutritious food through food acquisition and distribution, and by engaging the community and advocating for a strong food assistance network. ",
+      "primaryActivity": "Westside Food Bank sources nutritious food and other necessities via donations and wholesale food purchases for distribution to food insecure residents of West Los Angeles County through our network of 60+ partner agencies and via our 5 weekly direct service free mobile food markets while also engaging in hunger relief coalition-building and advocating for public policies that alleviate hunger and poverty. ",
+      "contact": {
+        "email": "genevieve@wsfb.org",
+        "name": "Genevieve Riutort"
+      }
+    },
+    {
+      "id": "org-16",
+      "name": "NoHo Home Alliance",
+      "sector": "Nonprofit/CBO",
+      "address": "11031 Camarillo ST",
+      "zipCode": "91602",
+      "coordinates": [
+        34.237842,
+        -118.445123
+      ],
+      "primaryDistrict": "5th District- Kathryn Barger",
+      "otherDistricts": "5th District- Kathryn Barger",
+      "primarySPA": "SPA 2- San Fernando Valley (Burbank, Calabasas, Canoga Park, Canyon Country, Encino, Glendale, LA Cañada-Flintridge, San Fernando, Sherman Oaks, Sun Valley, Van Nuys, Woodland Hills, and others)",
+      "additionalSPAs": "SPA 2- San Fernando Valley (Burbank, Calabasas, Canoga Park, Canyon Country, Encino, Glendale, LA Cañada-Flintridge, San Fernando, Sherman Oaks, Sun Valley, Van Nuys, Woodland Hills, and others)",
+      "mission": "NoHo Home Alliance solves local challenges through advocacy and programs that empower individuals-in-need to cultivate lives of dignity and that build a healthy community.",
+      "primaryActivity": "Operate Drop-In Access Centers for unhoused neighbors, transforming rescued food into healthy, delicious meals for people experiencing housing and food insecurity. ",
+      "contact": {
+        "email": "stephaniecaridad@nohohome.org",
+        "name": "Stephanie Caridad"
+      }
+    },
+    {
+      "id": "org-17",
+      "name": "Clínica Oscar Romero",
+      "sector": "Nonprofit/CBO",
+      "address": "Alvarado and Beverly",
+      "zipCode": "90057",
+      "coordinates": [
+        34.06485,
+        -118.278945
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "3rd District- Lindsey Horvath",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "mission": "Healthcare is a right!",
+      "primaryActivity": "Healthcare services",
+      "contact": {
+        "email": "hmagana@clinicaromero.com",
+        "name": "Aquiles Magana"
+      }
+    },
+    {
+      "id": "org-18",
+      "name": "CHIRLA ",
+      "sector": "Nonprofit/CBO",
+      "address": "2533 W 3rd st Los Angeles, CA ",
+      "zipCode": "90057",
+      "coordinates": [
+        34.0653322,
+        -118.2771994
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "SPA 2- San Fernando Valley (Burbank, Calabasas, Canoga Park, Canyon Country, Encino, Glendale, LA Cañada-Flintridge, San Fernando, Sherman Oaks, Sun Valley, Van Nuys, Woodland Hills, and others), SPA 3- San Gabriel Valley (Alhambra, Altadena, Arcadia, Azusa, Baldwin Park, Claremont, Covina, Diamond Bar, Duarte, El Monte, Glendora, Irwindale, Monrovia, Monterey Park, Pasadena, Pomona, San Dimas, San Gabriel, San Marino, Temple City, Walnut, West Covina, and others.), SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "mission": "CHIRLA’S MISSION IS TO ACHIEVE A JUST SOCIETY, FULLY INCLUSIVE OF IMMIGRANTS.\n\nCHIRLA was founded in 1986 to advance the human and civil rights of immigrants and refugees. CHIRLA became a place for organizations and people who support human rights to work together for policies that advance justice and full inclusion for all immigrants.",
+      "primaryActivity": "As a membership assistant I intake potiental members to expand our organization, intake anyone from the community in need of our services such CalFresh, Medical, and other grants we’ve had as food cards and rental assistance.",
+      "contact": {
+        "email": "jdiaz@chirla.org",
+        "name": "Joanna Diaz"
+      }
+    },
+    {
+      "id": "org-19",
+      "name": "(UPAS) United Parents and Students",
+      "sector": "Nonprofit/CBO",
+      "address": "1150 S Olive St, Los Angeles, CA 90015",
+      "zipCode": "90015",
+      "coordinates": [
+        34.0393986,
+        -118.261097
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts), SPA 7- East (Artesia, Bell, Bellflower, Bell Gardens, Cerritos, City of Commerce, City Terrace, Cudahy, Downey, East Los Angeles, Hawaiian Gardens, Huntington Park, La Habra Heights, Lakewood, La Mirada, Los Nietos, Maywood, Montebello, Norwalk, Pico Rivera, Santa Fe Springs, Signal Hill, South Gate, Vernon, Walnut Park, Whittier, and others), SPA 8- South Bay (Athens, Avalon, Carson, Catalina Island, El Segundo, Gardena, Harbor City, Hawthorne, Inglewood, Lawndale, Lennox, Long Beach, Hermosa Beach, Manhattan Beach, Palos Verdes Estates, Rancho Dominguez, Rancho Palos Verdes, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Pedro, Torrance, Wilmington, and others), Countywide",
+      "mission": "Our Mission\nUnited Parents and Students (UPAS) is an independent 501(c)(3) non-profit organization seeking to empower low-income communities to become powerful self-advocates for sustainable neighborhood revitalization. Through our work, we partner with local public schools and community-based organizations to create training centers that teach families the formal skills of community organizing and authentic civic engagement. As a result of this training, families are equipped to: identify clear and actionable issues within their communities, unify to develop meaningful and community centered solutions, and organize to advocate for deep systemic change on these issues. Our vision is to establish a national network of permanent, self-sustaining coalitions of informed and mobilized community members. Currently, UPAS operates chapters in Los Angeles, CA; Memphis, TN; and Stamford, CT.",
+      "primaryActivity": "UPAS leaders exercise their right to hold local officials accountable to the needs of their communities. UPAS team members work within the community - primarily starting with schools as the “broad base” - to surface these issues and develop plans of action toward addressing them. ",
+      "contact": {
+        "email": "ggamez@unitedparentsandstudents.org",
+        "name": "Gloria Gamez"
+      }
+    },
+    {
+      "id": "org-20",
+      "name": "Associated Mothers in Action",
+      "sector": "Nonprofit/CBO",
+      "address": "1919 E El Segundo blvd compton CA 90222",
+      "zipCode": "90222",
+      "coordinates": [
+        33.916872,
+        -118.220062
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "2nd District- Holly Mitchell",
+      "primarySPA": "SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts)",
+      "additionalSPAs": "SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts)",
+      "mission": "Associated Mothers in Action is dedicated to acting as a resource by supporting the increase food access in the South Los Angeles region while supporting physical and nutritional health in the community.",
+      "primaryActivity": "We will begin operating AMIA'S Farm Stand to increase access to nutrient dense food in the South Los Angeles region.",
+      "contact": {
+        "email": "Laneisha@associatedmothersinaction.org",
+        "name": "LaNeisha Hodo "
+      }
+    },
+    {
+      "id": "org-21",
+      "name": "Garden School Foundation",
+      "sector": "Nonprofit/CBO",
+      "address": "222 E Glenarm Street Ste B2 Pasadena, CA 91106",
+      "zipCode": "91106",
+      "coordinates": [
+        34.1274655,
+        -118.1452655
+      ],
+      "primaryDistrict": "5th District- Kathryn Barger",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 4th District- Janice Hahn",
+      "primarySPA": "SPA 3- San Gabriel Valley (Alhambra, Altadena, Arcadia, Azusa, Baldwin Park, Claremont, Covina, Diamond Bar, Duarte, El Monte, Glendora, Irwindale, Monrovia, Monterey Park, Pasadena, Pomona, San Dimas, San Gabriel, San Marino, Temple City, Walnut, West Covina, and others.)",
+      "additionalSPAs": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake), SPA 5- West (Bel Air, Beverly Hills, Brentwood, Culver City, Ladera, Malibu, Mar Vista, Marina del Rey, Pacific Palisades, Palms, Playa del Rey, Santa Monica, Venice, West LA, Westchester, and Westwood), SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts), SPA 8- South Bay (Athens, Avalon, Carson, Catalina Island, El Segundo, Gardena, Harbor City, Hawthorne, Inglewood, Lawndale, Lennox, Long Beach, Hermosa Beach, Manhattan Beach, Palos Verdes Estates, Rancho Dominguez, Rancho Palos Verdes, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Pedro, Torrance, Wilmington, and others)",
+      "mission": "Garden School Foundation provides in-depth garden-based education to youth at Title I schools in Los Angeles, strengthening connections between food justice, environmental stewardship, and community health. By using the full transformative potential of school gardens as teaching sites, we nurture a healthy and mindful generation of children who care for their bodies, their communities, and the earth. ",
+      "primaryActivity": "Through garden-based education, students learn how to collaboratively grow, harvest, cook, and eat their own healthy foods, as well as how they can impact the broader environment and their own communities.",
+      "contact": {
+        "email": "casey@gardenschoolfoundation.org",
+        "name": "Casey Kahalas"
+      }
+    },
+    {
+      "id": "org-22",
+      "name": "Food Access LA (f/k/a Sustainable Economic Enterprises LA)",
+      "sector": "Nonprofit/CBO",
+      "address": "1231 N. Spring Street, Suite C-102",
+      "zipCode": "90039",
+      "coordinates": [
+        34.06985,
+        -118.236465
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "2nd District- Holly Mitchell, 3rd District- Lindsey Horvath",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts)",
+      "mission": "Our mission is to support farmers, feed Los Angeles, and be a supporting partner in equitable food systems. We build sustainable food systems and promote social and cultural activities that benefit both low-to-moderate income Los Angeles residents while supporting California small- and mid-sized farms and local small businesses.",
+      "primaryActivity": "Supporting farmers thourgh farmers' market operations and feeding Los Angels by removing barriers of access to fresh, local produce.",
+      "contact": {
+        "email": "jennifer@foodaccessla.org",
+        "name": "Jennifer Grissom"
+      }
+    },
+    {
+      "id": "org-23",
+      "name": "Hollywood Food Coalition ",
+      "sector": "Nonprofit/CBO",
+      "address": "5939 Hollywood Blvd  ",
+      "zipCode": "90028",
+      "coordinates": [
+        34.100292,
+        -118.327759
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "Countywide",
+      "mission": "The mission of Hollywood Food Coalition is to nourish the community by rescuing and distributing food, preparing nightly meals, and uniting efforts to achieve food equity.",
+      "primaryActivity": "Addressing food insecurity through recovering food and providing hot nightly meals.",
+      "contact": {
+        "email": "nina.angelo@hofoco.org",
+        "name": "Nina Angelo"
+      }
+    },
+    {
+      "id": "org-24",
+      "name": "Antelope Valley Partners for Health",
+      "sector": "Nonprofit/CBO",
+      "address": "858 W Jackman St., Lancaster CA",
+      "zipCode": "93534",
+      "coordinates": [
+        34.686682,
+        -118.137425
+      ],
+      "primaryDistrict": "5th District- Kathryn Barger",
+      "otherDistricts": "5th District- Kathryn Barger",
+      "primarySPA": "SPA 1- Antelope Valley (Acton, Agua Dulce, Gorman, Lake Hughes, Lake Los Angeles, Lancaster, Littlerock, Palmdale, Quartz Hill, and others)",
+      "additionalSPAs": "SPA 1- Antelope Valley (Acton, Agua Dulce, Gorman, Lake Hughes, Lake Los Angeles, Lancaster, Littlerock, Palmdale, Quartz Hill, and others)",
+      "mission": "To educate, strengthen, and advocate for the community through services and partnerships, achieving optimal health and quality of life for all people in the Antelope Valley.",
+      "primaryActivity": "Foster a thriving Antelope Valley community by ensuring access to fresh produce and providing resources for overall health and wellness",
+      "contact": {
+        "email": "jjohnson@avph.org",
+        "name": "Jacqueline Johnson"
+      }
+    },
+    {
+      "id": "org-25",
+      "name": "Help Me Help You",
+      "sector": "Nonprofit/CBO",
+      "address": "PO Box 32861 Long Beach CA 90832",
+      "zipCode": "90813",
+      "coordinates": [
+        33.77005,
+        -118.193739
+      ],
+      "primaryDistrict": "4th District- Janice Hahn",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 8- South Bay (Athens, Avalon, Carson, Catalina Island, El Segundo, Gardena, Harbor City, Hawthorne, Inglewood, Lawndale, Lennox, Long Beach, Hermosa Beach, Manhattan Beach, Palos Verdes Estates, Rancho Dominguez, Rancho Palos Verdes, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Pedro, Torrance, Wilmington, and others)",
+      "additionalSPAs": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake), SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts), SPA 7- East (Artesia, Bell, Bellflower, Bell Gardens, Cerritos, City of Commerce, City Terrace, Cudahy, Downey, East Los Angeles, Hawaiian Gardens, Huntington Park, La Habra Heights, Lakewood, La Mirada, Los Nietos, Maywood, Montebello, Norwalk, Pico Rivera, Santa Fe Springs, Signal Hill, South Gate, Vernon, Walnut Park, Whittier, and others)",
+      "mission": "Our mission is to uplift homeless and low-income families and individuals by increasing access to food public benefits, and economic security.   \n\nOur work reduces hunger and poverty, improves nutrition and health, and boosts financial security.  Pro-grams target homeless and disadvantaged families and individuals including seniors, disabled individuals, veterans, and youth. \n",
+      "primaryActivity": "Give Food",
+      "contact": {
+        "email": "zina@helpmehelpu.org",
+        "name": "Zina Washington"
+      }
+    },
+    {
+      "id": "org-26",
+      "name": "Project Angel Food",
+      "sector": "Nonprofit/CBO",
+      "address": "922 Vine Street",
+      "zipCode": "90038",
+      "coordinates": [
+        34.100292,
+        -118.327759
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "Countywide",
+      "mission": "We prepare and deliver healthy meals to feed people impacted by serious illness, bringing comfort and hope every day",
+      "primaryActivity": "Home delivered medically tailored meals for seriously ill in LA County ",
+      "contact": {
+        "email": "rboller@angelfood.org",
+        "name": "Robert Boller"
+      }
+    },
+    {
+      "id": "org-27",
+      "name": "FoodCycle",
+      "sector": "Nonprofit/CBO",
+      "address": "6636 Selma Avenue, Los Angeles CA",
+      "zipCode": "90028",
+      "coordinates": [
+        34.0996182,
+        -118.3352977
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn, 5th District- Kathryn Barger, Countywide",
+      "primarySPA": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "additionalSPAs": "SPA 1- Antelope Valley (Acton, Agua Dulce, Gorman, Lake Hughes, Lake Los Angeles, Lancaster, Littlerock, Palmdale, Quartz Hill, and others), SPA 2- San Fernando Valley (Burbank, Calabasas, Canoga Park, Canyon Country, Encino, Glendale, LA Cañada-Flintridge, San Fernando, Sherman Oaks, Sun Valley, Van Nuys, Woodland Hills, and others), SPA 3- San Gabriel Valley (Alhambra, Altadena, Arcadia, Azusa, Baldwin Park, Claremont, Covina, Diamond Bar, Duarte, El Monte, Glendora, Irwindale, Monrovia, Monterey Park, Pasadena, Pomona, San Dimas, San Gabriel, San Marino, Temple City, Walnut, West Covina, and others.), SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake), SPA 5- West (Bel Air, Beverly Hills, Brentwood, Culver City, Ladera, Malibu, Mar Vista, Marina del Rey, Pacific Palisades, Palms, Playa del Rey, Santa Monica, Venice, West LA, Westchester, and Westwood), SPA 6- South (Athens, Compton, Crenshaw, Florence, Hyde Park, Lynwood, Paramount, and Watts), SPA 7- East (Artesia, Bell, Bellflower, Bell Gardens, Cerritos, City of Commerce, City Terrace, Cudahy, Downey, East Los Angeles, Hawaiian Gardens, Huntington Park, La Habra Heights, Lakewood, La Mirada, Los Nietos, Maywood, Montebello, Norwalk, Pico Rivera, Santa Fe Springs, Signal Hill, South Gate, Vernon, Walnut Park, Whittier, and others), SPA 8- South Bay (Athens, Avalon, Carson, Catalina Island, El Segundo, Gardena, Harbor City, Hawthorne, Inglewood, Lawndale, Lennox, Long Beach, Hermosa Beach, Manhattan Beach, Palos Verdes Estates, Rancho Dominguez, Rancho Palos Verdes, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Pedro, Torrance, Wilmington, and others), Countywide",
+      "mission": "Feed People Not Landfills",
+      "primaryActivity": "FOODCYCLE'S MISSION IS TO PROVIDE FOOD TO FOOD-INSECURE COMMUNITIES AND TO KEEP FOOD WASTE OUT OF LANDFILLS, WHICH HAS A POSITIVE EFFECT ON CLIMATE CHANGE.",
+      "contact": {
+        "email": "nancy@foodcyclela.org",
+        "name": "Nancy Beyda"
+      }
+    },
+    {
+      "id": "org-28",
+      "name": "Union Station Homeless Services",
+      "sector": "Nonprofit/CBO",
+      "address": "825 E Orange Grove Blvd, Pasadena, CA",
+      "zipCode": "91104",
+      "coordinates": [
+        34.1579077,
+        -118.1334329
+      ],
+      "primaryDistrict": "5th District- Kathryn Barger",
+      "otherDistricts": "1st District- Hilda Solis",
+      "primarySPA": "SPA 3- San Gabriel Valley (Alhambra, Altadena, Arcadia, Azusa, Baldwin Park, Claremont, Covina, Diamond Bar, Duarte, El Monte, Glendora, Irwindale, Monrovia, Monterey Park, Pasadena, Pomona, San Dimas, San Gabriel, San Marino, Temple City, Walnut, West Covina, and others.)",
+      "additionalSPAs": "SPA 4- Metro LA (Boyle Heights, Central City, Downtown LA, Echo Park, El Sereno, Hollywood, Mid-City Wilshire, Monterey Hills, Mount Washington, Silverlake, West Hollywood, and Westlake)",
+      "mission": "We work to end homelessness through housing solutions, supportive services, and connection to community.",
+      "primaryActivity": "Homeless Services & Basic Needs",
+      "contact": {
+        "email": "agreen@unionstationhs.org",
+        "name": "Amanda Green"
+      }
+    }
+  ],
+  "metadata": {
+    "totalOrganizations": 29,
+    "geocodedOrganizations": 28,
+    "failedGeocode": 1,
+    "successRate": "96.6",
+    "lastUpdated": "2025-07-15T23:27:52.240Z",
+    "districts": [
+      "1st District- Hilda Solis",
+      "2nd District- Holly Mitchell",
+      "3rd District- Lindsey Horvath",
+      "5th District- Kathryn Barger",
+      "4th District- Janice Hahn"
+    ],
+    "sectors": [
+      "Nonprofit/CBO",
+      "Government Agency",
+      "we're a governmental nonprofit, part of county but independent",
+      "Foundation",
+      "College/University"
+    ]
+  }
+}

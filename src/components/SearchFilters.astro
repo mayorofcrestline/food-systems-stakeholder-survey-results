@@ -1,0 +1,253 @@
+---
+import organizationsData from '../data/organizations.json';
+
+// Get unique sectors and districts for filter options
+const sectors = [...new Set(organizationsData.organizations.map(org => org.sector))].sort();
+const districts = [...new Set(organizationsData.organizations.map(org => org.primaryDistrict))].sort();
+---
+
+<div class="filters-container">
+  <div class="search-section">
+    <div class="search-input-container">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Search organizations..."
+        class="search-input"
+      />
+      <button id="clearSearch" class="clear-button" title="Clear search">×</button>
+    </div>
+    
+    <div class="filter-dropdowns">
+      <select id="sectorFilter" class="filter-select">
+        <option value="">All Sectors</option>
+        {sectors.map(sector => (
+          <option value={sector}>{sector}</option>
+        ))}
+      </select>
+      
+      <select id="districtFilter" class="filter-select">
+        <option value="">All Districts</option>
+        {districts.map(district => (
+          <option value={district}>{district}</option>
+        ))}
+      </select>
+    </div>
+  </div>
+  
+  <div class="results-section">
+    <div id="resultsCount" class="results-count">
+      Showing {organizationsData.organizations.length} of {organizationsData.organizations.length} organizations
+    </div>
+    
+    <button id="clearFilters" class="clear-filters-button">Clear All Filters</button>
+  </div>
+</div>
+
+<script>
+  // Wait for map to be initialized
+  function initializeFilters() {
+    if (!window.allMarkers) {
+      setTimeout(initializeFilters, 100);
+      return;
+    }
+
+    const searchInput = document.getElementById('searchInput');
+    const sectorFilter = document.getElementById('sectorFilter');
+    const districtFilter = document.getElementById('districtFilter');
+    const clearSearch = document.getElementById('clearSearch');
+    const clearFilters = document.getElementById('clearFilters');
+    const resultsCount = document.getElementById('resultsCount');
+
+    let filteredMarkers = [...window.allMarkers];
+
+    // Filter function
+    function filterMarkers() {
+      const searchTerm = searchInput.value.toLowerCase();
+      const selectedSector = sectorFilter.value;
+      const selectedDistrict = districtFilter.value;
+
+      // Hide all markers first
+      window.allMarkers.forEach(marker => {
+        window.mapInstance.removeLayer(marker);
+      });
+
+      // Filter and show matching markers
+      filteredMarkers = window.allMarkers.filter(marker => {
+        const org = marker.orgData;
+        
+        // Text search across multiple fields
+        const searchableText = [
+          org.name,
+          org.sector,
+          org.mission,
+          org.primaryActivity,
+          org.address,
+          org.primaryDistrict
+        ].join(' ').toLowerCase();
+        
+        const matchesSearch = !searchTerm || searchableText.includes(searchTerm);
+        const matchesSector = !selectedSector || org.sector === selectedSector;
+        const matchesDistrict = !selectedDistrict || org.primaryDistrict === selectedDistrict;
+        
+        return matchesSearch && matchesSector && matchesDistrict;
+      });
+
+      // Add filtered markers back to map
+      filteredMarkers.forEach(marker => {
+        marker.addTo(window.mapInstance);
+      });
+
+      // Update results count
+      const total = window.allMarkers.length;
+      const showing = filteredMarkers.length;
+      resultsCount.textContent = `Showing ${showing} of ${total} organizations`;
+
+      // Show/hide clear search button
+      clearSearch.style.display = searchTerm ? 'block' : 'none';
+    }
+
+    // Clear all filters
+    function clearAllFilters() {
+      searchInput.value = '';
+      sectorFilter.value = '';
+      districtFilter.value = '';
+      filterMarkers();
+    }
+
+    // Clear search only
+    function clearSearchOnly() {
+      searchInput.value = '';
+      filterMarkers();
+    }
+
+    // Event listeners
+    searchInput.addEventListener('input', filterMarkers);
+    sectorFilter.addEventListener('change', filterMarkers);
+    districtFilter.addEventListener('change', filterMarkers);
+    clearSearch.addEventListener('click', clearSearchOnly);
+    clearFilters.addEventListener('click', clearAllFilters);
+
+    // Initial filter (show all)
+    filterMarkers();
+  }
+
+  // Initialize when DOM is loaded
+  document.addEventListener('DOMContentLoaded', initializeFilters);
+</script>
+
+<style>
+  .filters-container {
+    background: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
+  .search-section {
+    margin-bottom: 15px;
+  }
+
+  .search-input-container {
+    position: relative;
+    margin-bottom: 15px;
+  }
+
+  .search-input {
+    width: 100%;
+    padding: 12px 40px 12px 12px;
+    border: 2px solid #e2e8f0;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: border-color 0.2s;
+    box-sizing: border-box;
+  }
+
+  .search-input:focus {
+    outline: none;
+    border-color: #3182ce;
+  }
+
+  .clear-button {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: #718096;
+    display: none;
+    padding: 0;
+    width: 20px;
+    height: 20px;
+  }
+
+  .clear-button:hover {
+    color: #2d3748;
+  }
+
+  .filter-dropdowns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+  }
+
+  .filter-select {
+    padding: 10px;
+    border: 2px solid #e2e8f0;
+    border-radius: 6px;
+    font-size: 14px;
+    background: white;
+    cursor: pointer;
+    box-sizing: border-box;
+    width: 100%;
+  }
+
+  .filter-select:focus {
+    outline: none;
+    border-color: #3182ce;
+  }
+
+  .results-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
+    border-top: 1px solid #e2e8f0;
+  }
+
+  .results-count {
+    font-size: 14px;
+    color: #4a5568;
+  }
+
+  .clear-filters-button {
+    background: #e2e8f0;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    color: #2d3748;
+    transition: background-color 0.2s;
+  }
+
+  .clear-filters-button:hover {
+    background: #cbd5e0;
+  }
+
+  @media (max-width: 768px) {
+    .filter-dropdowns {
+      grid-template-columns: 1fr;
+    }
+    
+    .results-section {
+      flex-direction: column;
+      gap: 10px;
+      text-align: center;
+    }
+  }
+</style>
