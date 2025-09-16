@@ -1,0 +1,1323 @@
+{
+  "organizations": [
+    {
+      "id": "org-0",
+      "name": "Angel City Advisors",
+      "sector": "For-Profit",
+      "address": "6141 Barrows Drive",
+      "zipCode": 90048,
+      "coordinates": [
+        34.0603082,
+        -118.3641137
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell",
+      "primarySPA": "SPA 5",
+      "additionalSPAs": "SPA 2, SPA 3, SPA 4, SPA 6, SPA 7, SPA 8",
+      "mission": "Angel City Advisors facilitates the flow of capital and expertise to expand opportunity, elevate community-generated ideas, and achieve equity. ",
+      "primaryActivity": "Impact Fund Design and Management",
+      "website": "https://www.angelcityadvisors.com/",
+      "contact": {
+        "email": "daniel@angelcityadvisors.com",
+        "name": "Daniel Tellalian"
+      }
+    },
+    {
+      "id": "org-1",
+      "name": "Annenberg Foundation",
+      "sector": "Foundation",
+      "address": "2000 Avenue of the Stars, Los Angeles, CA 90067",
+      "zipCode": 90067,
+      "coordinates": [
+        34.0583138,
+        -118.4146758
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 5",
+      "additionalSPAs": "Countywide",
+      "mission": "A philanthropic foundation dedicated to addressing the critical issues of our time through innovation, community, compassion, and communication since 1989.",
+      "primaryActivity": "A grant maker that focuses on the issues of food insecurity, education, housing, workforce development, and mental health. ",
+      "website": "annenberg.org",
+      "contact": {
+        "email": "mmartinez@annenberg.org",
+        "name": "Michael Martinez"
+      }
+    },
+    {
+      "id": "org-2",
+      "name": "Antelope Valley Partners for Health",
+      "sector": "Nonprofit/CBO",
+      "address": "858 W Jackman St., Lancaster CA",
+      "zipCode": 93534,
+      "coordinates": [
+        34.686682,
+        -118.137425
+      ],
+      "primaryDistrict": "5th District- Kathryn Barger",
+      "otherDistricts": "5th District- Kathryn Barger",
+      "primarySPA": "SPA 1",
+      "additionalSPAs": "SPA 1",
+      "mission": "To educate, strengthen, and advocate for the community through services and partnerships, achieving optimal health and quality of life for all people in the Antelope Valley.",
+      "primaryActivity": "Foster a thriving Antelope Valley community by ensuring access to fresh produce and providing resources for overall health and wellness",
+      "website": "avph.org",
+      "contact": {
+        "email": "jjohnson@avph.org",
+        "name": "Jacqueline Johnson"
+      }
+    },
+    {
+      "id": "org-3",
+      "name": "Armenian Relief Society of Western USA, Inc.",
+      "sector": "Nonprofit/CBO",
+      "address": "517 W. Glenoaks Blvd.",
+      "zipCode": 91202,
+      "coordinates": [
+        34.1593124,
+        -118.2646828
+      ],
+      "primaryDistrict": "5th District- Kathryn Barger",
+      "otherDistricts": "1st District- Hilda Solis",
+      "primarySPA": "SPA 2",
+      "additionalSPAs": "SPA 4",
+      "mission": "To promote education, social services, health, and the welfare of communities;\nTo encourage and advocate for human rights and social change in civil society as a non-governmental organization;\nTo promote the education and perpetuation of Armenian culture to children, youth, and members;\nTo enhance the education of the Society’s members and encourage their involvement in public service;\nTo made special appropriations for food, medicine, and clothing in the event of natural disasters, wars, or epidemics, and to aid the disabled and the ill.",
+      "primaryActivity": "Provide no-cost general social services to the low income community",
+      "website": "https://arswestusa.org/",
+      "contact": {
+        "email": "regionalsocialservices@arswestusa.org",
+        "name": "Melanie Vartabedian"
+      }
+    },
+    {
+      "id": "org-4",
+      "name": "Associated Mothers in Action",
+      "sector": "Nonprofit/CBO",
+      "address": "1919 E El Segundo blvd compton CA 90222",
+      "zipCode": 90222,
+      "coordinates": [
+        33.916872,
+        -118.220062
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "2nd District- Holly Mitchell",
+      "primarySPA": "SPA 6",
+      "additionalSPAs": "SPA 6",
+      "mission": "Associated Mothers in Action is dedicated to acting as a resource by supporting the increase food access in the South Los Angeles region while supporting physical and nutritional health in the community.",
+      "primaryActivity": "We will begin operating AMIA'S Farm Stand to increase access to nutrient dense food in the South Los Angeles region.",
+      "website": "https://www.associatedmothersinaction.org/",
+      "contact": {
+        "email": "Laneisha@associatedmothersinaction.org",
+        "name": "LaNeisha Hodo "
+      }
+    },
+    {
+      "id": "org-5",
+      "name": "BreastfeedLA",
+      "sector": "Nonprofit/CBO",
+      "address": "2851 West 120th St, Suite E335, Hawthorne, CA",
+      "zipCode": 90250,
+      "coordinates": [
+        33.9244689,
+        -118.323944
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 8",
+      "additionalSPAs": "Countywide",
+      "mission": "BreastfeedLA is dedicated to improving the health and well being of infants and families through education, outreach, and advocacy to promote and support breast/chestfeeding.",
+      "primaryActivity": "BreastfeedLA strengthens local food systems by uplifting breastfeeding as the first food and a vital source of infant nutrition, while advancing food security and justice through equitable access to human milk and culturally rooted lactation support.",
+      "website": "https://www.breastfeedla.org/",
+      "contact": {
+        "email": "apalmer@breastfeedla.org",
+        "name": "Arissa Palmer"
+      }
+    },
+    {
+      "id": "org-6",
+      "name": "Butterfly Equity Foundation",
+      "sector": "Foundation",
+      "address": "9595 Wilshire Blvd., Suite 510",
+      "zipCode": 90212,
+      "coordinates": [
+        34.067321,
+        -118.398273
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 5",
+      "additionalSPAs": "Countywide",
+      "mission": "The mission of the Foundation is to empower our community partners to strengthen the local food system and improve healthy food access for all. We envision a world where everyone has equitable access to nourishing food that promotes their wellbeing.",
+      "primaryActivity": "We are a grantmaker who is fully devoted to supporting food related issue areas in Los Angles County.",
+      "website": "https://www.bfly.com/foundation/",
+      "contact": {
+        "email": "emily@bfly.org",
+        "name": "Emily Parker"
+      }
+    },
+    {
+      "id": "org-7",
+      "name": "California Community Foundation",
+      "sector": "Foundation",
+      "address": "717 W. Temple St.",
+      "zipCode": 90012,
+      "coordinates": [
+        34.05758,
+        -118.2523
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 1",
+      "additionalSPAs": "Countywide",
+      "mission": "CCF leads positive systemic change that strengthens Los Angeles’ communities. We envision a future where all Angelenos have the opportunity to contribute to the productivity, health and well-being of our region. And we believe that our common fate will be determined by how successfully we improve the quality of life for all of our residents.",
+      "primaryActivity": "support non-profits, Fiscal sponsor for LA County Office of Food Equity",
+      "website": "calfund.org",
+      "contact": {
+        "email": "LRodriguez@calfund.org",
+        "name": "Luis Rodriguez"
+      }
+    },
+    {
+      "id": "org-8",
+      "name": "Chinese Christian Herald Crusades ",
+      "sector": "Nonprofit/CBO",
+      "address": "715 E Mission Rd",
+      "zipCode": 91776,
+      "coordinates": [
+        34.0917097,
+        -118.0926814
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "1st District- Hilda Solis",
+      "primarySPA": "SPA 3",
+      "additionalSPAs": "SPA 3",
+      "mission": "The mission of Chinese Christian Herald Crusades is to provide holistic and integrated services to ensure the Chinese Immigrant community in Southern California is able to adapt, integrate, be economically self-sufficient and thrive in the United States. ",
+      "primaryActivity": "We provide assistance through welfare program applications, free tax filing (VITA), tax dispute assistance via Low Income Taxpayers Clinic (LITC), ITIN application, and livelihood related services.",
+      "website": "https://old.cchcla.org/en/",
+      "contact": {
+        "email": "shellychen@cchcla.org",
+        "name": "Shelly Chen "
+      }
+    },
+    {
+      "id": "org-9",
+      "name": "CHIRLA ",
+      "sector": "Nonprofit/CBO",
+      "address": "2533 W 3rd st Los Angeles, CA ",
+      "zipCode": 90057,
+      "coordinates": [
+        34.0653322,
+        -118.2771994
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "SPA 2, SPA 3, SPA 4",
+      "mission": "CHIRLA’S MISSION IS TO ACHIEVE A JUST SOCIETY, FULLY INCLUSIVE OF IMMIGRANTS.\n\nCHIRLA was founded in 1986 to advance the human and civil rights of immigrants and refugees. CHIRLA became a place for organizations and people who support human rights to work together for policies that advance justice and full inclusion for all immigrants.",
+      "primaryActivity": "As a membership assistant I intake potiental members to expand our organization, intake anyone from the community in need of our services such CalFresh, Medical, and other grants we’ve had as food cards and rental assistance.",
+      "website": "https://www.chirla.org/",
+      "contact": {
+        "email": "jdiaz@chirla.org",
+        "name": "Joanna Diaz"
+      }
+    },
+    {
+      "id": "org-10",
+      "name": "County of Los Angeles, Department of Public Health, Chronic Disease and Injury Prevention",
+      "sector": "Government Agency",
+      "address": "Downtown and at 3530 Wilshire Blvd, 8th Floor, Los Angeles, CA 90010",
+      "zipCode": 90010,
+      "coordinates": [
+        34.061028,
+        -118.3012
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn, 5th District- Kathryn Barger, Countywide",
+      "primarySPA": "SPA 6",
+      "additionalSPAs": "Countywide",
+      "mission": "Our primary mission is to help make Los Angeles County a healthier place. In collaboration with our community partners and key stakeholders, we focus on reducing the risk and burden of chronic disease, injury, and social conditions that affect health to promote well-being and quality of life for all residents in this diverse county. Good health provides the foundation for a strong quality of life for our children, families, and friends. When we focus on prevention and make our communities places of health, safety, and opportunity for social and economic growth, everyone benefits.",
+      "primaryActivity": "chronic disease prevention and control through multi-sector collaborations and policy, systems, and envrionmental change efforts",
+      "website": "http://publichealth.lacounty.gov/chronic/",
+      "contact": {
+        "email": "tkuo@ph.lacounty.gov",
+        "name": "Tony Kuo, MD, MSHS"
+      }
+    },
+    {
+      "id": "org-11",
+      "name": "Clínica Oscar Romero",
+      "sector": "Nonprofit/CBO",
+      "address": "Alvarado and Beverly",
+      "zipCode": 90057,
+      "coordinates": [
+        34.06485,
+        -118.278945
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "3rd District- Lindsey Horvath",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "SPA 4",
+      "mission": "Healthcare is a right!",
+      "primaryActivity": "Healthcare services",
+      "website": "clinicaromero.com",
+      "contact": {
+        "email": "hmagana@clinicaromero.com",
+        "name": "Aquiles Magana"
+      }
+    },
+    {
+      "id": "org-13",
+      "name": "County of Los Angeles, Aging and Disabilities Department ",
+      "sector": "Government Agency",
+      "address": "510 South Vermont Ave,  Los Angeles ",
+      "zipCode": 90020,
+      "coordinates": [
+        34.0651468,
+        -118.2915495
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "Improve lives and support self-determination for older adults, adults with disabilities, and communities.",
+      "primaryActivity": "Help older, dependent, and disabled adults to age in place, with dignity and independence.",
+      "website": "https://ad.lacounty.gov/",
+      "contact": {
+        "email": "mrobleto@ad.lacounty.gov",
+        "name": "Miguel Robleto "
+      }
+    },
+    {
+      "id": "org-14",
+      "name": "County of Los Angeles, Chief Sustainability Office",
+      "sector": "Government Agency",
+      "address": "500 West Temple Street,  Los Angeles, CA ",
+      "zipCode": 90012,
+      "coordinates": [
+        34.057276,
+        -118.245558
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "CSO provides policy support and guidance to the Board of Supervisors, County departments, and regional partners to ensure a sustainable, equitable, and resilient future for all County residents.",
+      "primaryActivity": "Policy development",
+      "website": "https://cso.lacounty.gov/",
+      "contact": {
+        "email": "afrazzini@cso.lacounty.gov",
+        "name": "Alison Frazzini"
+      }
+    },
+    {
+      "id": "org-15",
+      "name": "County of Los Angeles, Department of Children and Family Services ",
+      "sector": "Government Agency",
+      "address": "510 S. Vermont Ave., Los Angeles, CA 90020",
+      "zipCode": 90020,
+      "coordinates": [
+        34.0651468,
+        -118.2915495
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "Promotes child safety and well-being by partnering with communities to strengthen families, keeping children at home whenever possible and connecting them with stable, loving homes in times of need. ",
+      "primaryActivity": "Amplify food resources/events on our platforms.",
+      "website": "https://dcfs.lacounty.gov/",
+      "contact": {
+        "email": "suarea@dcfs.lacounty.gov",
+        "name": "Amara Suarez"
+      }
+    },
+    {
+      "id": "org-16",
+      "name": "County of Los Angeles, Department of Public Health",
+      "sector": "Government Agency",
+      "address": "3530 Wilshire Blvd., Suite 800. Los Angeles, CA",
+      "zipCode": 90010,
+      "coordinates": [
+        34.0616527,
+        -118.3017696
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "Advance the conditions that support optimal health and well-being for all",
+      "primaryActivity": "Convening & connecting entities working to improve food security, nutrition, and health outcomes. ",
+      "website": "http://publichealth.lacounty.gov/#openSafetyPopup",
+      "contact": {
+        "email": "pranganath@ph.lacounty.gov",
+        "name": "Priya Ranganath"
+      }
+    },
+    {
+      "id": "org-17",
+      "name": "County of Los Angeles, Department of Public Social Services",
+      "sector": "Government Agency",
+      "address": "12860 Crossroads Prkwy. South",
+      "zipCode": 91746,
+      "coordinates": [
+        34.028243,
+        -118.024345
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 3",
+      "additionalSPAs": "Countywide",
+      "mission": "To Enrich lives through effective and caring service.",
+      "primaryActivity": "To ensure that Los Angeles County's most vulnerable residents have access to food benefits through CalFresh Program.  Our goal is to reduce food insecurity and increase healthy food consumption. ",
+      "website": "https://dpss.lacounty.gov/en.html",
+      "contact": {
+        "email": "RoobinaGerami@dpss.lacounty.gov",
+        "name": "Roobina Gerami"
+      }
+    },
+    {
+      "id": "org-18",
+      "name": "Culver-Palms Family Y ",
+      "sector": "Nonprofit/CBO",
+      "address": "4301 West 3rd Street Los Angeles, CA 90020",
+      "zipCode": 90020,
+      "coordinates": [
+        34.06905,
+        -118.308047
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "We believe that health is more than just healthcare. It’s shaped by access to food, safe spaces, learning, and the power of human connection – the social determinants of health at the core of our mission at the Center for Community Well-Being.",
+      "primaryActivity": "The ensure that all Angelenos have a positive Y experience.",
+      "website": "https://www.ymcala.org/locations/culver-palms-family-ymca/",
+      "contact": {
+        "email": "LoriSiegel@ymcala.org",
+        "name": "Lori Siegel"
+      }
+    },
+    {
+      "id": "org-19",
+      "name": "Eastmont Community Center ",
+      "sector": "Nonprofit/CBO",
+      "address": "701 Hoefner Ave Los Angeles CA 90022",
+      "zipCode": 90022,
+      "coordinates": [
+        34.0210673,
+        -118.1498999
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "4th District- Janice Hahn",
+      "primarySPA": "SPA 7",
+      "additionalSPAs": "SPA 7, SPA 8",
+      "mission": "Supporting a thriving community through empowerment, social services, and programs that elevate civic, social and economic well-being. ",
+      "primaryActivity": "Eastmont Community Center provides comprehensive services that connect individuals and families to resources in education, financial literacy, health, housing, and community empowerment.",
+      "website": "https://www.eastmontcommunitycenter.org/",
+      "contact": {
+        "email": "ihernandez@eastmontcommunitycenter.org",
+        "name": "Isaias Hernandez"
+      }
+    },
+    {
+      "id": "org-20",
+      "name": "Eco Urban Gardens",
+      "sector": "Nonprofit/CBO",
+      "address": "4921 N Cedar Ave ",
+      "zipCode": "El Monte, CA 91732",
+      "coordinates": [
+        34.0815179,
+        -118.0250151
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "1st District- Hilda Solis",
+      "primarySPA": "SPA 3",
+      "additionalSPAs": "SPA 3",
+      "mission": "to combat food insecurity through regenerative agriculture",
+      "primaryActivity": "grow food so that each child knows how to grow food and eat healthfully. ",
+      "website": "https://ecourbangardens.org/",
+      "contact": {
+        "email": "info@ecourbangardens.org",
+        "name": "Marianne Zaugg"
+      }
+    },
+    {
+      "id": "org-21",
+      "name": "El Nido Family Centers",
+      "sector": "Nonprofit/CBO",
+      "address": "11243 Glenoaks Blvd.",
+      "zipCode": 90038,
+      "coordinates": [
+        34.274572,
+        -118.4127556
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 2",
+      "additionalSPAs": "SPA 1, SPA 5",
+      "mission": "\nBelieving that “a child cannot grow up twice”, El Nido was founded in 1925 by the National Council of Jewish Women to provide meals and respite care to undernourished and neglected girls in Los Angeles.\n\nThroughout its history, El Nido has been a pioneer. It was the first or a leading local agency, to employ multicultural professionals from its target communities, deliver counseling and parent education in non-traditional settings like schools, inner-city churches, and housing projects, and offer home or school-based group services for pregnant and parenting teens.\n\n​Today, El Nido continues to build healthy families by providing community-based social services in some of the most underserved communities in Los Angeles County, including; Pacoima and surrounding communities, South Los Angeles, Compton, and the Antelope Valley",
+      "primaryActivity": "Pacoima Farmers Market",
+      "website": "https://www.elnidofamilycenters.org/",
+      "contact": {
+        "email": "mkaplan@elnidofamilycenters.org",
+        "name": "Max/Kaplan"
+      }
+    },
+    {
+      "id": "org-22",
+      "name": "Episcopal Diocese of Los Angeles-Seeds of Hope",
+      "sector": "Nonprofit/CBO",
+      "address": "840 Echo Park Ave",
+      "zipCode": 90026,
+      "coordinates": [
+        34.073635,
+        -118.2603
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn, 5th District- Kathryn Barger, Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "To provide nutrient dense food, nutrition and cooking education, garden workshops and social services navigation in a effort to address the social determinants of health. We do this using food as the connector, bringing people together around the shared love of food.",
+      "primaryActivity": "Providing equitable access to nutrition, health programming and social services with dignity. ",
+      "website": "https://www.seedsofhopela.org/",
+      "contact": {
+        "email": "strapasso@ladiocese.org",
+        "name": "Steven Trapasso"
+      }
+    },
+    {
+      "id": "org-23",
+      "name": "Every Day Action ",
+      "sector": "Nonprofit/CBO",
+      "address": "143 S Alvarado St Los Angeles ",
+      "zipCode": 90057,
+      "coordinates": [
+        34.0659047,
+        -118.2709077
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn, 5th District- Kathryn Barger, Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "Every Day Action non-profit takes perceived waste and re-distributes it to those in need. Our\nmission is to inspire others to take care of their local community and to ask themselves daily:\nWhat can I do to help someone today? How can I be the reason someone feels seen, heard,\nvalued, loved and supported? Working in conjunction with film sets, restaurants, and more, we\ntake food, belongings, etc., that one might perceive as waste and deliver it into the hands of the\nunderprivileged and unhoused communities.\nOur hope is to bridge the gap between the upper middle class and the millions of Americans in\nneed, while inspiring our friends and neighbors to do the same and better. We firmly believe that\nhaving less doesn’t make you less and having more doesn’t make you more; we are all equal and\nshould take care of our world and each other.",
+      "primaryActivity": "Every Day Action reallocates food from film/tv sets, commercials, offices, events, festivals, restaurants, select grocery stores and more across a 90-mile radius in Los Angeles.  ",
+      "website": "https://www.youreverydayaction.org/",
+      "contact": {
+        "email": "mail@youreverydayaction.org",
+        "name": "Hillary Cohen"
+      }
+    },
+    {
+      "id": "org-24",
+      "name": "First 5 LA",
+      "sector": "Government Agency",
+      "address": "750 North Alameda Street, Los Angeles, CA",
+      "zipCode": 90012,
+      "coordinates": [
+        34.0558851,
+        -118.2374432
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn, 5th District- Kathryn Barger, Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "First 5 LA advocates for children and their families, amplify community voice and partner for collective impact so that every child in Los Angeles County reaches their full developmental potential throughout the critical years of prenatal to age 5.  ",
+      "primaryActivity": "First 5 LA works to build a future where every child is born healthy and thrives in nurturing, safe, and loving communities",
+      "website": "https://www.first5la.org/",
+      "contact": {
+        "email": "rdeleon@first5la.org",
+        "name": "Reuben De Leon"
+      }
+    },
+    {
+      "id": "org-25",
+      "name": "Food Access LA (f/k/a Sustainable Economic Enterprises LA)",
+      "sector": "Nonprofit/CBO",
+      "address": "1231 N. Spring Street, Suite C-102",
+      "zipCode": 90039,
+      "coordinates": [
+        34.06985,
+        -118.236465
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "2nd District- Holly Mitchell, 3rd District- Lindsey Horvath",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "SPA 6",
+      "mission": "Our mission is to support farmers, feed Los Angeles, and be a supporting partner in equitable food systems. We build sustainable food systems and promote social and cultural activities that benefit both low-to-moderate income Los Angeles residents while supporting California small- and mid-sized farms and local small businesses.",
+      "primaryActivity": "Supporting farmers thourgh farmers' market operations and feeding Los Angels by removing barriers of access to fresh, local produce.",
+      "website": "https://foodaccessla.org/",
+      "contact": {
+        "email": "jennifer@foodaccessla.org",
+        "name": "Jennifer Grissom"
+      }
+    },
+    {
+      "id": "org-26",
+      "name": "Food Forward",
+      "sector": "Nonprofit/CBO",
+      "address": "7412 Fulton Ave Suite #3, North Hollywood, CA",
+      "zipCode": 91605,
+      "coordinates": [
+        34.2047717,
+        -118.4224271
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "3rd District- Lindsey Horvath",
+      "primarySPA": "SPA 2",
+      "additionalSPAs": "Countywide",
+      "mission": "Food Forward® fights hunger and prevents food waste by rescuing fresh surplus produce, connecting this abundance with people experiencing food insecurity, and inspiring others to do the same.",
+      "primaryActivity": "Food Forward recovers fruits and vegetables that would have been wasted from backyard fruit trees, orchards, farmers markets, and the downtown Los Angeles Wholesale Produce Market. ",
+      "website": "https://foodforward.org/",
+      "contact": {
+        "email": "ellen@foodforward.org",
+        "name": "Ellen DeVine"
+      }
+    },
+    {
+      "id": "org-27",
+      "name": "FoodCycle",
+      "sector": "Nonprofit/CBO",
+      "address": "129 E 223rd Street Carson CA",
+      "zipCode": 90745,
+      "coordinates": [
+        33.8242844,
+        -118.2750167
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn, 5th District- Kathryn Barger, Countywide",
+      "primarySPA": "SPA 8",
+      "additionalSPAs": "Countywide",
+      "mission": "FoodCycle's mission is to feed people not landfills, nourishing food-insecure communities by rescuing surplus food and redirecting it from landfills to tables — reducing hunger, improving health, and protecting the planet from the impacts of food waste and climate change.",
+      "primaryActivity": "FoodCycle rescues surplus food and redirects it to organizations serving food-insecure communities while advocating for systemic changes that create a more equitable and sustainable food system for all.",
+      "website": "https://www.foodcyclela.org/",
+      "contact": {
+        "email": "nancy@foodcyclela.org",
+        "name": "Nancy Beyda"
+      }
+    },
+    {
+      "id": "org-28",
+      "name": "Garden School Foundation",
+      "sector": "Nonprofit/CBO",
+      "address": "222 E Glenarm Street Ste B2 Pasadena, CA 91106",
+      "zipCode": 91106,
+      "coordinates": [
+        34.1274655,
+        -118.1452655
+      ],
+      "primaryDistrict": "5th District- Kathryn Barger",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 4th District- Janice Hahn",
+      "primarySPA": "SPA 3",
+      "additionalSPAs": "SPA 4, SPA 5, SPA 6, SPA 8",
+      "mission": "Garden School Foundation provides in-depth garden-based education to youth at Title I schools in Los Angeles, strengthening connections between food justice, environmental stewardship, and community health. By using the full transformative potential of school gardens as teaching sites, we nurture a healthy and mindful generation of children who care for their bodies, their communities, and the earth. ",
+      "primaryActivity": "Through garden-based education, students learn how to collaboratively grow, harvest, cook, and eat their own healthy foods, as well as how they can impact the broader environment and their own communities.",
+      "website": "https://gardenschoolfoundation.org/",
+      "contact": {
+        "email": "casey@gardenschoolfoundation.org",
+        "name": "Casey Kahalas"
+      }
+    },
+    {
+      "id": "org-29",
+      "name": "God's Pantry",
+      "sector": "Nonprofit/CBO",
+      "address": "250 E Center Street",
+      "zipCode": 91767,
+      "coordinates": [
+        34.061448,
+        -117.7469713
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "1st District- Hilda Solis",
+      "primarySPA": "SPA 3",
+      "additionalSPAs": "SPA 3, SPA 6, SPA 7",
+      "mission": "Our mission is to meet the fundamental wellness needs of the communities we serve in a practical way that also addresses the heart of systemic challenges and systems that create and perpetuate food, housing, and economic insecurity. We offer healing and hope through food, employment, housing, and wraparound services.",
+      "primaryActivity": "We both hold food distributions for communities throughout LA and San Bernardino Counties, but also provide wraparound support, housing, and employment opportunities to justice-impacted and TAY individuals, using our pantry as a means to provide training, hope, and purpose.",
+      "website": "https://www.gods-pantry.com/",
+      "contact": {
+        "email": "megan@gods-pantry.org",
+        "name": "Megan Anderson"
+      }
+    },
+    {
+      "id": "org-30",
+      "name": "GrowGood",
+      "sector": "Nonprofit/CBO",
+      "address": "5600 Rickenbacker Road, Bell, CA",
+      "zipCode": 90201,
+      "coordinates": [
+        33.9908781,
+        -118.1683167
+      ],
+      "primaryDistrict": "4th District- Janice Hahn",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn",
+      "primarySPA": "SPA 7",
+      "additionalSPAs": "SPA 4, SPA 5, SPA 6, SPA 7",
+      "mission": "GrowGood, Inc. is a Los Angeles-based nonprofit employment social enterprise whose mission is to transform communities and change lives through collaborative urban agriculture projects.",
+      "primaryActivity": "GrowGood leads holistic and collaborative urban agriculture initiatives that enhance food and nutrition security while fostering workforce development.",
+      "website": "https://www.grow-good.org/",
+      "contact": {
+        "email": "Meghan@grow-good.org",
+        "name": "Meghan Garvey"
+      }
+    },
+    {
+      "id": "org-31",
+      "name": "Help Me Help You",
+      "sector": "Nonprofit/CBO",
+      "address": "PO Box 32861 Long Beach CA 90832",
+      "zipCode": 90813,
+      "coordinates": [
+        33.77005,
+        -118.193739
+      ],
+      "primaryDistrict": "4th District- Janice Hahn",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 8",
+      "additionalSPAs": "SPA 4, SPA 6, SPA 7",
+      "mission": "Our mission is to uplift homeless and low-income families and individuals by increasing access to food public benefits, and economic security.   \n\nOur work reduces hunger and poverty, improves nutrition and health, and boosts financial security.  Pro-grams target homeless and disadvantaged families and individuals including seniors, disabled individuals, veterans, and youth. \n",
+      "primaryActivity": "Give Food",
+      "website": "https://www.helpmehelpu.org/",
+      "contact": {
+        "email": "zina@helpmehelpu.org",
+        "name": "Zina Washington"
+      }
+    },
+    {
+      "id": "org-32",
+      "name": "Hollywood Food Coalition",
+      "sector": "Nonprofit/CBO",
+      "address": "5939 Hollywood Blvd",
+      "zipCode": 90028,
+      "coordinates": [
+        34.100292,
+        -118.327759
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "The mission of Hollywood Food Coalition is to nourish the community by rescuing and distributing food, preparing nightly meals, and uniting efforts to achieve food equity.",
+      "primaryActivity": "We rescue millions of pounds of food each year, which we use to prepare a nightly hot meal and also redistribute to a network of 170+ community-based organizations.",
+      "website": "https://hofoco.org/",
+      "contact": {
+        "email": "development@hofoco.org",
+        "name": "Asher Landau"
+      }
+    },
+    {
+      "id": "org-33",
+      "name": "Hunger Action Los Angeles Inc",
+      "sector": "Nonprofit/CBO",
+      "address": "961 S Mariposa Ave # 205",
+      "zipCode": 90006,
+      "coordinates": [
+        34.047825,
+        -118.304545
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "Hunger Action Los Angeles ends hunger and promotes healthy eating in Los Angeles County through advocacy, public policy and appropriate direct service including the Market Match program providing additional benefits to CalFresh customers at farmers markets; CalFresh enrollment; food delivery to vulnerable populations; and advocacy at the city, county, state and federal levels for anti-hunger and anti-poverty policy.",
+      "primaryActivity": "We provide direct services to customers including food and vouchers for food while also coordinating advoacy for food policy among low income persons and service providers.",
+      "website": "https://www.hungeractionla.org/",
+      "contact": {
+        "email": "frank@hungeractionla.org",
+        "name": "Frank Tamborello"
+      }
+    },
+    {
+      "id": "org-34",
+      "name": "Impact Justice",
+      "sector": "Nonprofit/CBO",
+      "address": "777 South Alameda St,  Los Angeles, CA 90021",
+      "zipCode": 90021,
+      "coordinates": [
+        34.0336253,
+        -118.2413866
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 4th District- Janice Hahn",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "SPA 4, SPA 7, SPA 8",
+      "mission": "Impact Justice advances safety, justice, and opportunity through boundary-breaking work that honors and empowers people and is changing expectations about what we can accomplish together.",
+      "primaryActivity": "Providing nutrition education and fresh local produce to individuals reentering and healing from incarceration.",
+      "website": "https://impactjustice.org/",
+      "contact": {
+        "email": "hgantan@impactjustice.org",
+        "name": "Heile Gantan"
+      }
+    },
+    {
+      "id": "org-35",
+      "name": "Japanese American Cultural & Community Center",
+      "sector": "Nonprofit/CBO",
+      "address": "244 S. San Pedro Street, Los Angeles",
+      "zipCode": 90012,
+      "coordinates": [
+        34.0473914,
+        -118.2419061
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "1st District- Hilda Solis",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "SPA 4",
+      "mission": "The Japanese American Cultural & Community Center weaves Japanese and Japanese American arts and culture into the fabric of our communities. JACCC remains firmly rooted in Little Tokyo, providing a vital place to build connections between people and cultures, locally and internationally. Through programs and authentic experiences, we continue our living traditions and nurture the next generation of innovative artists, culture-bearers, and thinkers.",
+      "primaryActivity": "Rooted in our historic Little Tokyo community, we are strongly committed to uplifting Southern Californians with Japanese and Japanese American performing, visual, traditional, community, and culinary arts programming. ",
+      "website": "https://jaccc.org/",
+      "contact": {
+        "email": "anakamoto@jaccc.org",
+        "name": "Allyson Nakamoto"
+      }
+    },
+    {
+      "id": "org-36",
+      "name": "Los Angeles Food Policy Council",
+      "sector": "Nonprofit/CBO",
+      "address": "1000 N. Alameda St. Suite 240",
+      "zipCode": 90012,
+      "coordinates": [
+        34.06485,
+        -118.2233
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "LAFPC works to ensure food is healthy, accessible, affordable, fair, and sustainable for all. ",
+      "primaryActivity": "LAFPC is a collective impact organization that brings together diverse sectors and community voices across the LA region to create a more just and sustainable food system. Through policy advocacy, strategic partnerships, and innovative programs, we work to ensure that food is healthy, affordable, accessible, fair, and sustainable for all. By uniting stakeholders around a shared agenda, we drive meaningful change and support initiatives that uplift local food economies, protect food workers, and expand equitable food access.",
+      "website": "https://www.goodfoodla.org/",
+      "contact": {
+        "email": "alba@goodfoodla.org",
+        "name": "Alba Velasquez"
+      }
+    },
+    {
+      "id": "org-37",
+      "name": "Los Angeles Regional Food Bank",
+      "sector": "Nonprofit/CBO",
+      "address": "1734 East 41st Street, Los Angeles CA 90058",
+      "zipCode": 90058,
+      "coordinates": [
+        34.0079733,
+        -118.2422964
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 6",
+      "additionalSPAs": "Countywide",
+      "mission": "To mobilize resources to fight hunger in our community.",
+      "primaryActivity": "Source and acquire nutritious food and other products and distribute them to people experiencing nutrition insecurity through our partner agency network and directly through programs",
+      "website": "https://www.lafoodbank.org/",
+      "contact": {
+        "email": "hayala@lafoodbank.org",
+        "name": "Hilda Ayala"
+      }
+    },
+    {
+      "id": "org-38",
+      "name": "Mayor's Fund for Long Beach",
+      "sector": "Nonprofit/CBO",
+      "address": "65 Pine Ave., #898, Long Beach, CA 90802",
+      "zipCode": 90802,
+      "coordinates": [
+        33.7673865,
+        -118.1924793
+      ],
+      "primaryDistrict": "4th District- Janice Hahn",
+      "otherDistricts": "4th District- Janice Hahn",
+      "primarySPA": "SPA 8",
+      "additionalSPAs": "SPA 7",
+      "mission": "Expanding opportunities for children, youth, and families of Long Beach. ",
+      "primaryActivity": "The Mayor’s Fund collaborates with community, civic, and education partners to help address the most pressing needs facing Long Beach area families, particularly in the areas of early childhood education/childcare, resource connection, youth engagement, and college/career-readiness. ",
+      "website": "https://lbmayorsfund.org/",
+      "contact": {
+        "email": "kselvester@lbmayorsfund.org",
+        "name": "Karissa Selvester"
+      }
+    },
+    {
+      "id": "org-39",
+      "name": "National Health Foundation",
+      "sector": "Nonprofit/CBO",
+      "address": "515 S Figueroa Street, Suite 1300",
+      "zipCode": 90071,
+      "coordinates": [
+        34.0520935,
+        -118.2580793
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "To improve the health of under-resourced communities.",
+      "primaryActivity": "Provide CalFresh application assistance, nutrition education and other food access resources.",
+      "website": "https://nationalhealthfoundation.org/",
+      "contact": {
+        "email": "cmonk@nhfca.org",
+        "name": "Chad Monk"
+      }
+    },
+    {
+      "id": "org-40",
+      "name": "NoHo Home Alliance",
+      "sector": "Nonprofit/CBO",
+      "address": "11031 Camarillo St, North Hollywood, CA 91602",
+      "zipCode": 91602,
+      "coordinates": [
+        34.1577268,
+        -118.3715649
+      ],
+      "primaryDistrict": "5th District- Kathryn Barger",
+      "otherDistricts": "5th District- Kathryn Barger",
+      "primarySPA": "SPA 2",
+      "additionalSPAs": "SPA 2",
+      "mission": "NoHo Home Alliance solves local challenges through advocacy and programs that empower individuals-in-need to cultivate lives of dignity and that build a healthy community.",
+      "primaryActivity": "Operate Drop-In Access Centers for unhoused neighbors, transforming rescued food into healthy, delicious meals for people experiencing housing and food insecurity. ",
+      "website": "https://nohohome.org/",
+      "contact": {
+        "email": "stephaniecaridad@nohohome.org",
+        "name": "Stephanie Caridad"
+      }
+    },
+    {
+      "id": "org-41",
+      "name": "North Valley Caring Services",
+      "sector": "Nonprofit/CBO",
+      "address": "15453 Rayen Street",
+      "zipCode": 91343,
+      "coordinates": [
+        34.2319908,
+        -118.4688207
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "3rd District- Lindsey Horvath",
+      "primarySPA": "SPA 2",
+      "additionalSPAs": "SPA 2",
+      "mission": "The mission of North Valley Caring Services (NVCS) is to empower neighborhood residents to build a vision of their community’s future and to actively engage in solving local problems.",
+      "primaryActivity": "Food pantry on Fridays from 9am-3pm, drive thru and walk up",
+      "website": "https://www.nvcsinc.org/",
+      "contact": {
+        "email": "amonroy@nvcsinc.org",
+        "name": "Alycia Monroy"
+      }
+    },
+    {
+      "id": "org-42",
+      "name": "North Valley Family YMCA",
+      "sector": "Nonprofit/CBO",
+      "address": "10896 Lehigh Ave. Pacoima, CA",
+      "zipCode": 91331,
+      "coordinates": [
+        34.2678329,
+        -118.4151902
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "3rd District- Lindsey Horvath",
+      "primarySPA": "SPA 2",
+      "additionalSPAs": "SPA 2",
+      "mission": "The North Valley Family YMCA puts Judeo-Christian principles into practice through programs that build healthy spirit, mind and body for all.",
+      "primaryActivity": "Provide programs and services to the Northern San Fernando Valley",
+      "website": "https://www.ymcala.org/locations/north-valley-family-ymca/",
+      "contact": {
+        "email": "DavidHartmire@ymcala.org",
+        "name": "David Hartmire"
+      }
+    },
+    {
+      "id": "org-43",
+      "name": "Partnership for Growth LA (Freedom Farms)",
+      "sector": "Nonprofit/CBO",
+      "address": "4103 W Adams Blvd",
+      "zipCode": 90018,
+      "coordinates": [
+        34.0326809,
+        -118.3297303
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "2nd District- Holly Mitchell, 4th District- Janice Hahn",
+      "primarySPA": "SPA 6",
+      "additionalSPAs": "SPA 4, SPA 5, SPA 6, SPA 8",
+      "mission": "We aim to democratize and scale urban farming and enhance food accessibility. We invest in local urban farming to support healthy eating in our community. We are building a network of urban farms to coordinate and and distribute produce to support a sustainable and large-scale local food economy.",
+      "primaryActivity": "We are an urban ag produce distributor who provides material and techincal support to urban farms.",
+      "website": "https://partnershipforgrowthla.org/freedom-farms/",
+      "contact": {
+        "email": "aaron@pfgla.org",
+        "name": "Aaron"
+      }
+    },
+    {
+      "id": "org-44",
+      "name": "Pilipino Workers Center of Southern California",
+      "sector": "Nonprofit/CBO",
+      "address": "153 Glendale Blvd., Los Angeles, CA",
+      "zipCode": 90007,
+      "coordinates": [
+        34.0623324,
+        -118.2595889
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "3rd District- Lindsey Horvath, 4th District- Janice Hahn, 5th District- Kathryn Barger, Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "SPA 2, SPA 3, SPA 4, SPA 5, SPA 8",
+      "mission": "Founded in 1997, Pilipino Workers Center (PWC) is a grassroots non-profit that organizes the low-wage and immigrant Pilipinx communities in the United States. \n\nWe build collective power to demand better living and working conditions in order to secure the dignity, safety, and economic stability of the Pilipinx community. ",
+      "primaryActivity": "We organize Filipino caregivers ",
+      "website": "https://www.pwcsc.org/",
+      "contact": {
+        "email": "shekinah@pwcsc.org",
+        "name": "Shekinah Deocares"
+      }
+    },
+    {
+      "id": "org-45",
+      "name": "Project Angel Food",
+      "sector": "Nonprofit/CBO",
+      "address": "922 Vine Street",
+      "zipCode": 90038,
+      "coordinates": [
+        34.100292,
+        -118.327759
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "We prepare and deliver healthy meals to feed people impacted by serious illness, bringing comfort and hope every day",
+      "primaryActivity": "home delivered medically tailored meals",
+      "website": "https://www.angelfood.org/",
+      "contact": {
+        "email": "rboller@angelfood.org",
+        "name": "Robert Boller"
+      }
+    },
+    {
+      "id": "org-46",
+      "name": "Special Service for Groups, Inc. / Asian Pacific Islander Forward Movement (SSG/APIFM)",
+      "sector": "Nonprofit/CBO",
+      "address": "905 E. 8th St., Los Angeles, CA 90021",
+      "zipCode": 90021,
+      "coordinates": [
+        34.0312699,
+        -118.2419335
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 4th District- Janice Hahn, 5th District- Kathryn Barger",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "SPA 3, SPA 4, SPA 6, SPA 8",
+      "mission": "We cultivate healthy, long-lasting, and vibrant Asian and Pacific Islander communities through community-centered engagement, education, and advocacy.",
+      "primaryActivity": "We work directly with communities to ensure that everyone has clean air to breathe, healthy food to eat, and safe places to live and play.",
+      "website": "https://www.ssg.org/divisions/apifm/",
+      "contact": {
+        "email": "kyle@apifm.org",
+        "name": "Kyle Tsukahira"
+      }
+    },
+    {
+      "id": "org-47",
+      "name": "St. Barnabas Senior Center",
+      "sector": "Nonprofit/CBO",
+      "address": "675 S. Carondelet Street Los Angeles, CA ",
+      "zipCode": 90057,
+      "coordinates": [
+        34.0593166,
+        -118.2811713
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "To empower a diverse community of older adults to Live Well, Feel Well and Age Well in the community with dignity and respect.",
+      "primaryActivity": "Serving low income seniors to ensure that they live well, feel well, and age well in the community.  ",
+      "website": "https://www.sbssla.org/",
+      "contact": {
+        "email": "lhernandez@sbssla.org",
+        "name": "Lorenzo hernandez"
+      }
+    },
+    {
+      "id": "org-48",
+      "name": "Street Company",
+      "sector": "Nonprofit/CBO",
+      "address": "104 E AVENUE K-4, STE G",
+      "zipCode": 93535,
+      "coordinates": [
+        34.6707619,
+        -118.1296078
+      ],
+      "primaryDistrict": "5th District- Kathryn Barger",
+      "otherDistricts": "5th District- Kathryn Barger",
+      "primarySPA": "SPA 1",
+      "additionalSPAs": "SPA 1",
+      "mission": "Bring Homeless People to Work, Reconnect, and Thrive",
+      "primaryActivity": "Operating social enterprise that provides permanent and transitional employment for unhoused in the AV.",
+      "website": "https://www.streetcompany.org/",
+      "contact": {
+        "email": "jesse.lee@streetcompany.org",
+        "name": "Yongsuk Lee (Jesse)"
+      }
+    },
+    {
+      "id": "org-49",
+      "name": "The Midnight Mission",
+      "sector": "Nonprofit/CBO",
+      "address": "601 S. San Pedro St., Los ANgeles CA",
+      "zipCode": 90014,
+      "coordinates": [
+        34.0422635,
+        -118.2459874
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn, 5th District- Kathryn Barger, Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "SPA 4, SPA 8",
+      "mission": "VISION\nOur vision is to be a premier provider of life changing services to people experiencing homelessness in Southern California.\n\nThe Midnight Mission offers paths to self-sufficiency to men, women, and children in need. Our emergency services, 12-step recovery programs, Family Living program, job training, education and workforce development programs offer a compassionate bridge to achieve & maintain healthy productive lives. We remove obstacles and provide the accountability and structure that the people who are experiencing homelessness need to be productive in their communities. Our conviction and commitment to their success defines us.\n\nMISSION\nTo make available the necessities of life and offer a bridge to self-sufficiency for people experiencing homelessness through food, shelter, clothing, personal hygiene needs, medical care, recovery services, counseling, education, training, workforce development and continued care services.\n",
+      "primaryActivity": "The Midnight Mission makes available the necessities of life and offer a bridge to self-sufficiency for people experiencing homelessness through food, shelter, clothing, personal hygiene needs, medical care, recovery services, counseling, education, training, workforce development and continued care services.",
+      "website": "https://www.midnightmission.org/",
+      "contact": {
+        "email": "nneilson@midnightmission.org",
+        "name": "Nancy Neilson"
+      }
+    },
+    {
+      "id": "org-50",
+      "name": "Union Station Homeless Services",
+      "sector": "Nonprofit/CBO",
+      "address": "825 E Orange Grove Blvd, Pasadena, CA",
+      "zipCode": 91104,
+      "coordinates": [
+        34.1579077,
+        -118.1334329
+      ],
+      "primaryDistrict": "5th District- Kathryn Barger",
+      "otherDistricts": "1st District- Hilda Solis",
+      "primarySPA": "SPA 3",
+      "additionalSPAs": "SPA 4",
+      "mission": "We work to end homelessness through housing solutions, supportive services, and connection to community.",
+      "primaryActivity": "Homeless Services & Basic Needs",
+      "website": "https://ushs.org/",
+      "contact": {
+        "email": "agreen@unionstationhs.org",
+        "name": "Amanda Green"
+      }
+    },
+    {
+      "id": "org-51",
+      "name": "United Parents and Students (UPAS) ",
+      "sector": "Nonprofit/CBO",
+      "address": "1150 S Olive St, Los Angeles, CA 90015",
+      "zipCode": 90015,
+      "coordinates": [
+        34.0393986,
+        -118.261097
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "Our Mission\nUnited Parents and Students (UPAS) is an independent 501(c)(3) non-profit organization seeking to empower low-income communities to become powerful self-advocates for sustainable neighborhood revitalization. Through our work, we partner with local public schools and community-based organizations to create training centers that teach families the formal skills of community organizing and authentic civic engagement. As a result of this training, families are equipped to: identify clear and actionable issues within their communities, unify to develop meaningful and community centered solutions, and organize to advocate for deep systemic change on these issues. Our vision is to establish a national network of permanent, self-sustaining coalitions of informed and mobilized community members. Currently, UPAS operates chapters in Los Angeles, CA; Memphis, TN; and Stamford, CT.",
+      "primaryActivity": "UPAS leaders exercise their right to hold local officials accountable to the needs of their communities. UPAS team members work within the community - primarily starting with schools as the “broad base” - to surface these issues and develop plans of action toward addressing them. ",
+      "website": "www.unitedparentsandstudents.org",
+      "contact": {
+        "email": "ggamez@unitedparentsandstudents.org",
+        "name": "Gloria Gamez"
+      }
+    },
+    {
+      "id": "org-52",
+      "name": "University of California Agriculture & Natural Resources (UCANR)",
+      "sector": "College/University",
+      "address": "700 W Main St Alhambra, CA ",
+      "zipCode": 91801,
+      "coordinates": [
+        34.0917776,
+        -118.1338951
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 3",
+      "additionalSPAs": "Countywide",
+      "mission": "Our mission is to engage with the people of California to achieve innovation in fundamental and applied research and education that supports:\n• sustainable, safe, and nutritious food production and delivery\n• economic success in a global economy\n• a sustainable, healthy, and productive environment\n• science literacy and youth development programs. ",
+      "primaryActivity": "We conduct research, provide technical assistance, and deliver extension education programming to support organizations, small businesses, and community members in accessing, producing, and/or distributing healthful, culturally relevant, and sustainably produced food. ",
+      "website": "https://ucanr.edu/",
+      "contact": {
+        "email": "asmhoope@ucanr.edu",
+        "name": "Ashley Hooper"
+      }
+    },
+    {
+      "id": "org-53",
+      "name": "University of Southern California",
+      "sector": "College/University",
+      "address": "3551 Trousdale Parkway, Los Angeles, CA",
+      "zipCode": 90089,
+      "coordinates": [
+        34.0208709,
+        -118.2855497
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "2nd District- Holly Mitchell",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "The development of human beings and society as a whole through the cultivation and enrichment of the human mind and spirit.",
+      "primaryActivity": "Researcher and professor",
+      "website": "https://www.usc.edu/",
+      "contact": {
+        "email": "delahaye@usc.edu",
+        "name": "Kayla de la Haye"
+      }
+    },
+    {
+      "id": "org-54",
+      "name": "Urban & Environmental Policy Institute at Occidental College (UEPI)",
+      "sector": "College/University",
+      "address": "1600 Campus Road, Los Angeles",
+      "zipCode": 90041,
+      "coordinates": [
+        34.127195,
+        -118.2099203
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "UEPI an applied research and advocacy center with the mission of advancing community-driven programs and policies to build healthy, thriving communities while achieving social, economic and environmental justice. Working collaboratively with a wide range of community partners and organizations, we establish projects and program models in the areas of schools, farmers’ markets, urban agriculture, and the Oxy Community to achieve just and resilient food systems and healthy green communities.",
+      "primaryActivity": "Using research, facilitation, and education, we establish projects and program models in the areas of schools, farmers’ markets, urban agriculture, and the Oxy Community to achieve just and resilient food systems and healthy green communities.",
+      "website": "https://www.oxy.edu/about-oxy/community-engagement/uepi",
+      "contact": {
+        "email": "cech@oxy.edu",
+        "name": "Sharon Cech"
+      }
+    },
+    {
+      "id": "org-55",
+      "name": "Westside Food Bank",
+      "sector": "Nonprofit/CBO",
+      "address": "1710 22ND STREET, Santa Monica",
+      "zipCode": 90404,
+      "coordinates": [
+        34.0252623,
+        -118.4728412
+      ],
+      "primaryDistrict": "3rd District- Lindsey Horvath",
+      "otherDistricts": "2nd District- Holly Mitchell, 3rd District- Lindsey Horvath",
+      "primarySPA": "SPA 5",
+      "additionalSPAs": "SPA 2, SPA 4, SPA 5, SPA 6, SPA 8",
+      "mission": "Westside Food Bank’s mission is to end hunger in our communities by providing access to free, nutritious food through food acquisition and distribution, and by engaging the community and advocating for a strong food assistance network. ",
+      "primaryActivity": "Westside Food Bank sources nutritious food and other necessities via donations and wholesale food purchases for distribution to food insecure residents of West Los Angeles County through our network of 60+ partner agencies and via our 5 weekly direct service free mobile food markets while also engaging in hunger relief coalition-building and advocating for public policies that alleviate hunger and poverty. ",
+      "website": "https://home.wsfb.org/",
+      "contact": {
+        "email": "genevieve@wsfb.org",
+        "name": "Genevieve Riutort"
+      }
+    },
+    {
+      "id": "org-56",
+      "name": "With Love Market & Cafe",
+      "sector": "For-Profit",
+      "address": "1969 S Vermont Ave",
+      "zipCode": 90007,
+      "coordinates": [
+        34.0386855,
+        -118.2916553
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "Countywide",
+      "primarySPA": "SPA 6",
+      "additionalSPAs": "Countywide",
+      "mission": "With Love Market & Cafe is a cafe, market, and initiative in Pico Union and serving the greater South LA area. We are dedicated to creating alternative food access points and cultivating robust community resources to build a sustainable food system for all. Since our opening in 2016, With Love has sourced, packed, and distributed hundreds of thousands of pounds of program-tailored food boxes, procuring produce local farming cooperatives and operating a wide slate of programs: healthy meals for youth groups; nutritional education programs; produce distribution; seasonal free meals for the neighborhood; and more.",
+      "primaryActivity": "With Love Market & Cafe sources, packs, and distributes locally grown produce to make affordable fresh produce accessible at our cafe, market, and for healthy-food related programs across the county.",
+      "website": "https://withlovela.com/",
+      "contact": {
+        "email": "acho@withlovela.com",
+        "name": "Anna Cho"
+      }
+    },
+    {
+      "id": "org-57",
+      "name": "World Harvest Charities and Family Services",
+      "sector": "Nonprofit/CBO",
+      "address": "3100 Venice Blvd, Los Angeles, 90019 CA",
+      "zipCode": 90019,
+      "coordinates": [
+        34.043487,
+        -118.317859
+      ],
+      "primaryDistrict": "2nd District- Holly Mitchell",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn, 5th District- Kathryn Barger, Countywide",
+      "primarySPA": "SPA 4",
+      "additionalSPAs": "Countywide",
+      "mission": "World Harvest Food Bank is committed to ending food insecurity and fostering community resilience through equitable access to nutritious food, sustainable practices, social impact initiatives and mutual aid. We strive to create a social impact economy uplifting vulnerable communities, reduce waste, and strengthen the health and financial stability of individuals and families.",
+      "primaryActivity": "Food Distributions, Cart with a Heart provide grocery cart valued at over $300 in food for just a $50 contribution",
+      "website": "https://worldharvestfoodbank.org/",
+      "contact": {
+        "email": "krissia@worldharvestfoodbank.org",
+        "name": "Krissia Serpas "
+      }
+    },
+    {
+      "id": "org-58",
+      "name": "YMCA Metro LA",
+      "sector": "Nonprofit/CBO",
+      "address": "5142 Tujunga Ave, North Hollywood ",
+      "zipCode": 91601,
+      "coordinates": [
+        34.1638153,
+        -118.3788763
+      ],
+      "primaryDistrict": "5th District- Kathryn Barger",
+      "otherDistricts": "3rd District- Lindsey Horvath",
+      "primarySPA": "SPA 2",
+      "additionalSPAs": "SPA 2",
+      "mission": "The YMCA of Metropolitan Los Angeles is dedicated to improving the quality of human life and to helping all people realize their fullest potential through the development of spirit, mind, and body.”",
+      "primaryActivity": "We deliver groceries and essential items to those in our community avoiding public spaces. ",
+      "website": "https://www.ymcala.org/",
+      "contact": {
+        "email": "Anthonycruz@ymcala.org",
+        "name": "Anthony Cruz\n"
+      }
+    },
+    {
+      "id": "org-59",
+      "name": "PHFE WIC , A program of Heluna Health",
+      "sector": "Nonprofit/CBO",
+      "address": "13181 Crossroads Parkway North, City of Industry, CA 91746",
+      "zipCode": 91746,
+      "coordinates": [
+        34.0296689,
+        -118.0147988
+      ],
+      "primaryDistrict": "1st District- Hilda Solis",
+      "otherDistricts": "1st District- Hilda Solis, 2nd District- Holly Mitchell, 3rd District- Lindsey Horvath, 4th District- Janice Hahn",
+      "primarySPA": "SPA 3",
+      "additionalSPAs": "SPA 3, SPA 4, SPA 5, SPA 6, SPA 7, SPA 8",
+      "mission": "To nourish, support and empower our clients and ourselves!",
+      "primaryActivity": "Provide WIC services, supplementary foods, breastfeeding support, nutrition education, and referrals to income and category eligible Women, Infants and Children up to 5 years. ",
+      "website": "https://www.phfewic.org/",
+      "contact": {
+        "email": "kiran@phfewic.org",
+        "name": "Kiran Saluja"
+      }
+    }
+  ],
+  "metadata": {
+    "totalOrganizations": 60,
+    "geocodedOrganizations": 59,
+    "failedGeocode": 1,
+    "successRate": "98.3",
+    "lastUpdated": "2025-09-16T17:04:49.262Z",
+    "districts": [
+      "2nd District- Holly Mitchell",
+      "3rd District- Lindsey Horvath",
+      "5th District- Kathryn Barger",
+      "1st District- Hilda Solis",
+      "4th District- Janice Hahn"
+    ],
+    "sectors": [
+      "For-Profit",
+      "Foundation",
+      "Nonprofit/CBO",
+      "Government Agency",
+      "College/University"
+    ]
+  }
+}
